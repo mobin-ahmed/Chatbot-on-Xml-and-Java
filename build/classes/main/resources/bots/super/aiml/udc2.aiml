@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 32700 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 26680 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 23670 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 20660 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 17650 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 14640 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 10125 </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 30550 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 24960 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 22165 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 19370 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 16575 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 13780 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 9587 </template>
+  </category>
+  
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 28400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 23240 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 20660 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 18080 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 15500 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 12920 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 9050 </template>
+  </category>
+  
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 30550 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 24960 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 22165 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 19370 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 16575 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 13780 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 9587 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 32700 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 26680 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 23670 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 20660 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 17650 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 14640 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 10125 </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 30550 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 24960 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 22165 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 19370 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 16575 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 13780 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 9587 </template>
+  </category>
+  
+  
+  <category>
+    <pattern># # # 0 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.00) + 2600= 28400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.80) + 2600= 23240 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.7) + 2600= 20660 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.60) + 2600= 18080 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.50) + 2600= 15500 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.40) + 2600= 12920 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # bba # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (2150 multiply 14 multiply 0.25) + 2600= 9050 </template>
+  </category>
+  
+  
+  
+  
+  
+  
+  //another part
+  
+  
+    <category>
+    <pattern># # # 0 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 1) + 3600= 21600 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> 1500 multiply 12 multiply 0.80) + 3600= 18000 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 0.7) + 3600= 16200 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 0.60) + 3600= 14400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 0.50) + 3600= 12600 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 0.40) + 3600= 10800 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # math # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 12 multiply 0.25) + 3600= 8100 </template>
+  </category>
+  
+  
+  
+  
+  //math for 13 cradit
+  
+      <category>
+    <pattern># # # 0 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 1) + 3600= 23100 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> 1500 multiply 13 multiply 0.80) + 3600= 19200 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 0.7) + 3600= 17250 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 0.60) + 3600= 15300 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 0.50) + 3600= 13350 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 0.40) + 3600= 11400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # math # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 13 multiply 0.25) + 3600= 8475 </template>
+  </category>
+  
+  //math for 14 cradit
+  
+      <category>
+    <pattern># # # 0 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 1) + 3600= 24600 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> 1500 multiply 14 multiply 0.80) + 3600= 20400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 0.7) + 3600= 18300 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 0.60) + 3600= 16200 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 0.50) + 3600= 14100 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 0.40) + 3600= 12000 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # math # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1500 multiply 14 multiply 0.25) + 3600= 8850 </template>
+  </category>
+  
+  
+  // cse for 12 cradit
+  
+      <category>
+    <pattern># # # 0 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 12 multiply 1) + 3600= 23400 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 12 multiply 0.80) + 3600= 19440 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 12 multiply 0.7) + 3600= 17460 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 40 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 12 multiply 0.60) + 3600= 15480 </template>
+  </category>
+ 
+   <category>
+    <pattern># # # 60 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 12 multiply 0.4) + 3600= 11520 </template>
+  </category>
+  
+  
+  //cse for 13 credit
+  
+   <category>
+    <pattern># # # 0 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 13 multiply 1) + 3600= 25050 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 13 multiply 0.80) + 3600= 20760 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 13 multiply 0.7) + 3600= 18615 </template>
+  </category>
+  
+   <category>
+    <pattern># # # 40 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 13 multiply 0.6) + 3600= 16470 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 13 multiply 0.80) + 3600= 12180 </template>
+  </category>
+  
+ 
+ //cse for 14 cradit
+ 
+ 
+ <category>
+    <pattern># # # 0 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 14 multiply 1) + 3600= 26700 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 20 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 14 multiply 0.80) + 3600= 22080 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 30 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 14 multiply 0.7) + 3600= 19770 </template>
+  </category>
+  
+   <category>
+    <pattern># # # 40 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 14 multiply 0.6) + 3600= 17460 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> 1650 multiply 14 multiply 0.4) + 3600= 12840 </template>
+  </category>
+  </aiml>

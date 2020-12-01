@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+    <pattern># calculate # semester fee # waiver</pattern>
+    <template>Whats your waiver, subject and credits</template>
+  </category>
+  <category>
+    <pattern># # # 50 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 12 multiply 0.5) + 3600= 13500 </template>
+    
+  </category>
+  
+  <category>
+    <pattern># # # 50 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 13 multiply 0.5) + 3600= 14325 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # cse # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 12 multiply 0.25) + 3600= 8550 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # cse # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 13 multiply 0.25) + 3600= 8962.5 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # cse # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1650 multiply 14 multiply 0.25) + 3600= 9375 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # english # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1450 multiply 12 multiply 0.25) + 2600= 6950 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # english # # # # 13</pattern>
+    <template>Ok got it.Your calculation----> (1450 multiply 13 multiply 0.25) + 2600= 7312.5 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 75 # # # # # english # # # # 14</pattern>
+    <template>Ok got it.Your calculation----> (1450 multiply 14 multiply 0.25) + 2600= 7675 </template>
+  </category>
+  
+  <category>
+    <pattern># # # 60 # # # # # english # # # # 12</pattern>
+    <template>Ok got it.Your calculation----> (1450 multiply 12 multiply 0.4) + 2600=  </template>
+  </category>
+  
+  <category>
+    <pattern>rte</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver= 322200 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # total cost # computer science # # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver= 322200 taka.<split/>   
+    At 20 percent waiver= 269400 taka.<split/>    
+    At 30 percent waiver= 243000 taka.<split/>   
+    At 40 percent waiver= 216600 taka.<split/>    
+    At 50 percent waiver= 190200 taka.<split/>    
+    At 60 percent waiver= 163800 taka.<split/>    
+    At 75 percent waiver= 124200 taka.</template>
+  </category>
+  
+  <category>
+      <pattern># # # total cost # cse # #</pattern>
+      <template><lowercase></lowercase><srai># # # total cost # computer science # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # #  cost # cse # #</pattern>
+      <template><lowercase></lowercase><srai># # # total cost # computer science # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # #  cost # computer science # #</pattern>
+      <template><lowercase></lowercase><srai># # # total cost # computer science # # # #</srai></template>
+  </category>
+  
+</aiml>

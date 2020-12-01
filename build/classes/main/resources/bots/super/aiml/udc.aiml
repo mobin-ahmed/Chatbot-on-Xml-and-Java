@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>^ hi ^</pattern>
+    <template><lowercase></lowercase>
+    <video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please,let me know how can i help you.</template>
+  </category>
+  
+  <category>
+    <pattern>^ Hey ^</pattern>
+    <template><lowercase></lowercase><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please,let me know how can i help you.</template>
+  </category>
+  
+  <category>
+    <pattern>^ Hello ^</pattern>
+    <template><lowercase></lowercase><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please,let me know how can i help you.</template>
+  </category>
+  
+  <category>
+      <pattern>^ how are you ^</pattern>
+      <template><lowercase></lowercase><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Oh!! Thank you.<split/>
+      I am fine.<split/>Are you ok ?</template>
+  </category>
+
+  <category>
+    <pattern># # # name of # university #</pattern>
+    <template><lowercase></lowercase>North East University Bangladesh</template>
+  </category>
+  
+  <category>
+    <pattern># # # university name #</pattern>
+    <template><lowercase></lowercase>North East University Bangladesh</template>
+  </category>
+  
+   <category>
+    <pattern># # # # # admission # # # #</pattern>
+    <template><lowercase></lowercase>Ok. I got it. The admission is open within 3 sessions(Spring, Summer and Fall). The required CGPA(SSC+HSC) must be avobe 2.5 each. You have to pay total admission fee 15000 taka.
+    <split/>
+    You have to take an admission form from the admission office and should fill it correctly.
+    After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet, HSC mark sheet, both certificates, both registration cards). 
+    You also have to provide the required passport size photo and copy of your birth certificate. 
+    <split/>
+    NOTE: For Graduate programs MBA, EMBA, MSc in Math, GDC in Math, LLM, MA in English the admission fee is 8000 taka. For Master in App. Sociology, Master in Social Work, MDS, Foundation Course in App. Sociology and Social Work admission fee is 10000 taka.</template>
+  </category> 
+  
+  
+  <category>
+      <pattern># # semesters # # #</pattern>
+    <template><lowercase></lowercase>There are three semesters in a year. Namely Summer,Spring and Fall</template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # spring # # #</pattern>
+    <template><lowercase></lowercase>Ok!! Generally spring semester starts from January first week and the semester final exam will held in last week of April, you are allowed to take admission before the mid-semester examination which will held in February last week. you have to take an admission form from the admission office and should fill it correctly.After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet, HSC mark sheet, both certificates,both registration cards). You also have to provide the required passport size photo and copy of your birth certificate.</template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # summer # # #</pattern>
+    <template><lowercase></lowercase>Ok!! Generally summer semester starts from May first week and the semester final exam will held in last week of August, you are allowed to take admission before the mid-semester examination which will held in June last week. you have to take an admission form from the admission office and should fill it correctly.After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet, HSC mark sheet, both certificates, both registration cards). You also have to provide the required passport size photo and copy of your birth certificate.</template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # fall # # #</pattern>
+    <template><lowercase></lowercase>Ok!! Generally fall semester starts from September first week and the semester final exam will held in last week of December. you are allowed to take admission before the mid-semester examination which will held in October last week. you have to take an admission form from the admission office and should fill it correctly. After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet, HSC mark sheet, both certificates, both registration cards). You also have to provide the required passport size photo and copy of your birth certificate. </template>
+  </category>
+  
+  /*<category>
+      <pattern>^ departments ^</pattern>
+    <template><lowercase></lowercase>There are seven departments:<split/>
+1) Computer and Science  Engineering.<split/>
+2) Business Administration.<split/>
+3) English.<split/>
+4) Law and Justice.<split/>
+5) Mathematics and Informatics.<split/>
+6) Environmental Science and Chemistry.<split/>
+7) Applied Sociology and Social Work.<split/>
+There are also two graduate programs: Master of Public Health(MPH) and Master of development studies(MDS).
+</template>
+    </category>*/
+  
+  <category>
+    <pattern>^ department ^</pattern>
+    <template><lowercase></lowercase><srai>^ departments ^</srai></template>
+  </category>
+  
+  <category>
+    <pattern>^ dept. ^</pattern>
+    <template><lowercase></lowercase><srai>^ departments ^</srai></template>
+  </category>
+  
+  <category>
+    <pattern>^ dept ^</pattern>
+    <template><lowercase></lowercase><srai>^ departments ^</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # about neub # #</pattern>
+    <template><lowercase></lowercase><image>http://neub.edu.bd/media/k2/items/cache/d382bd8ae87d9139df6458192532657c_L.jpg</image>North East University Bangladesh(NEUB) is a well-known private University in Bangladesh situated in the holy city of Sylhet that established in 2012 and becoming the most promising institution for higher studies in the country. The owner and chairman of board of trusties(BOT) is Adv. Iqbal Ahed Chowdhury. The name of Vice-Chancelor is Proffesor Dr. Atful Hye Shibly. Our current campus(City campus) is at Telihaor, Sheikhghat and our permanent campus is under constraction at Hetimgonj, Golapgonj, Sylhet.
+.</template>
+  </category>
+  
+  <category>
+    <pattern>neub</pattern>
+    <template><lowercase></lowercase><srai></srai># # about neub # #</template>
+  </category>
+  
+  <category>
+    <pattern># # about north east # #</pattern>
+    <template><lowercase></lowercase><srai># # # neub # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern>north east # #</pattern>
+    <template><lowercase></lowercase><srai>neub</srai></template>
+  </category>
+  
+  <category>
+      <pattern></pattern>
+      <template></template>
+  </category>
+  
+  <category>
+    <pattern># # # goal # # # # #</pattern>
+    <template><lowercase></lowercase>Education with Inovation.Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty, quality curriculum, qulity of libraries, labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.</template>
+  </category>
+  <category>
+    <pattern># # # vision # # # # #</pattern>
+    <template><lowercase></lowercase>Education with Inovation.Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty, quality curriculum, qulity of libraries, labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.</template>
+  </category>
+  
+  <category>
+    <pattern># # # mission # # # # #</pattern>
+    <template><lowercase></lowercase> Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty, quality curriculum, qulity of libraries, labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.</template>
+  </category>
+  
+  <category>
+    <pattern># # # target # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # goal # # # # #</srai></template>
+  </category>
+  
+  /*<category>
+    <pattern># # # # # # # location # # # # # # # # # #</pattern>
+    <template>
+        <lowercase></lowercase>Telihaor, Sheikhghat, Sylhet(City Campus).
+        <split/>Click the button below to see the map.
+        <button>
+            <text>Go for it</text>
+            <url>https://www.google.com/maps/place/North+East+University+Bangladesh/@24.8901004,91.8587668,17z/data=!4m5!3m4!1s0x3751aacd70cd7665:0xc8ae330ad72490dd!8m2!3d24.8900955!4d91.8609555</url>
+        </button>
+    </template>
+  </category>*/
+  
+  
+  <category>
+    <pattern># # where # # # # # # north east # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # # # location # # # # # # # #</srai></template>
+  </category>
+  <category>
+    <pattern># # where # # # # # # neub # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # # # location # # # # # # # #</srai></template>
+  </category>
+  <category>
+    <pattern># # # # # # direction # # # # # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # # # location # # # # # # # #</srai></template>
+  </category>
+  
+  
+  //the above program has completed,do not work again to it without asking the members!!!
+  
+  
+  
+  
+  <category>
+    <pattern># # faculty members # bba # #</pattern>
+    <template><lowercase></lowercase><srai>># # faculty member # business administration # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # bba # #</pattern>
+    <template><lowercase></lowercase><srai>># # faculty member # business administration # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # bba # #</pattern>
+    <template><lowercase></lowercase><srai>># # faculty member # business administration # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # bba # #</pattern>
+    <template><lowercase></lowercase><srai>># # faculty member # business administration # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # business administration # #</pattern>
+    <template><lowercase></lowercase><srai>># # faculty member # business administration # #</srai>.</template>
+  </category>
+  
+  /*<category>
+    <pattern># # faculty member # business administration # #</pattern>
+    <template><lowercase></lowercase>There are 14 faculty members in the Department
+    
+    <ul>
+            <li>Dr. Tofayel Ahmed.</li>
+	        <li>Taharat Nawaz.</li>
+	        <li>Fathema Rashid Saba.</li>
+	        <li>Rebeka Sultana Chowdhury.</li>
+	        <li>Fathema Farjana Hani.</li>
+	        <li>Shamim Al Aziz Lalin.</li>
+	        <li>Jahanjeb Ibne Khaled.</li>
+	        <li>Umme Humayara Manni.</li>
+	        <li>Md. Mizanur Rahman.</li>
+	        <li>Md. Nasir Uddin.</li>
+	        <li>Noor Jahan Shimu.</li>
+	        <li>Md. Amir Hushen.</li>
+	        <li>Samiha Sanjana.</li>
+	        <li>Ishrat Sharmin.</li>
+        
+    </ul>
+    
+    .</template>
+  </category>*/
+  
+  <category>
+    <pattern># # teachers # business administration # #</pattern>
+    <template><lowercase></lowercase>There are 14 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # business administration # #</pattern>
+    <template><lowercase></lowercase>There are 14 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # english # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # english # #</srai></template>
+            
+  </category>
+  
+  <category>
+    <pattern># # faculty members # english # #</pattern>
+    <template><lowercase></lowercase>There are 7 faculty members in the Department.
+    
+    <ul>
+        <li>Muhammad Shamsul Kabir.</li>
+	    <li>Nusrat Rikza.</li>
+	    <li>Masuma Akhter Tamanna.</li>
+	    <li>Sumaiya Ahmed.</li>
+	    <li>Ahlam Binth Abdul Muhith.</li>
+	    <li>Prasenjit Kumar Ghosh.</li>
+	    <li>Kaniz Fatema.</li>
+	</ul>
+        
+    </template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # english # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # english # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # english # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # english # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # llb # #</pattern>
+    <template><lowercase></lowercase>There are 5 faculty members in the Department.
+        <ul>
+            <li>Abul Hasanat Ibn Abedin.</li>
+	        <li>Dr. Md. Nayem Alimul Hyder.</li>
+	        <li>Jakir Hossan.</li>
+	        <li>Md. Fariduzzaman.</li>
+	        <li>Golam Faruque Rasel.</li>
+        </ul></template>
+        
+  </category>
+  
+  <category>
+    <pattern># # faculty member # llb # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # llb # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # llb # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # law # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # law # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # law # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # law # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # law # justice # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # law # justice # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # law # justice # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+  
+  <category>
+    <pattern># # teacher # law # justice # #</pattern>
+    <template><lowercase></lowercase><srai># # faculty members # llb # #</srai></template>
+  </category>
+  
+   <category>
+    <pattern># # # # credits # bba # </pattern>
+    <template><lowercase></lowercase>There are 127 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # bba #</pattern>
+    <template><lowercase></lowercase>There are 127 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # business # administration #</pattern>
+    <template><lowercase></lowercase>There are 127 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # business # administration #</pattern>
+    <template><lowercase></lowercase>There are 127 credits.</template>
+  </category>
+  
+  // above program has completed,dont touch.
+  
+  
+  <category>
+    <pattern># # # # credit # english #</pattern>
+    <template><lowercase></lowercase>There are 120 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # english #</pattern>
+    <template><lowercase></lowercase>There are 120 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # llb #</pattern>
+    <template><lowercase></lowercase>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # llb #</pattern>
+    <template><lowercase></lowercase>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # law #</pattern>
+    <template><lowercase></lowercase>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # law #</pattern>
+    <template>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # law # justice #</pattern>
+    <template><lowercase></lowercase>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # law # justice #</pattern>
+    <template><lowercase></lowercase>There are 140 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # cse #</pattern>
+    <template><lowercase></lowercase>There are 160 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # cse #</pattern>
+    <template><lowercase></lowercase>There are 160 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # computer science # # #</pattern>
+    <template><lowercase></lowercase>There are 160 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # computer science # # #</pattern>
+    <template><lowercase></lowercase>There are 160 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # sociology #</pattern>
+    <template><lowercase></lowercase>There are 137 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # sociology #</pattern>
+    <template><lowercase></lowercase>There are 137 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # applied sociology # # # #</pattern>
+    <template><lowercase></lowercase>There are 137 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # applied sociology # # # #</pattern>
+    <template><lowercase></lowercase>There are 137 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # math #</pattern>
+    <template><lowercase></lowercase>There are 150 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # math #</pattern>
+    <template><lowercase></lowercase>There are 150 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # mathmatics #</pattern>
+    <template><lowercase></lowercase>There are 150 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # mathmatics #</pattern>
+    <template><lowercase></lowercase>There are 150 credits.</template>
+  </category>
+   
+  <category>
+    <pattern># # # # credit # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 141 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 141 credits.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # # mba # # #</pattern>
+    <template><lowercase></lowercase>There are 64 credits for regular.<split/>
+    There are 52 credits for exclusive.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # # mba # # #</pattern>
+    <template><lowercase></lowercase>There are 64 credits for regular.<split/>
+    There are 52 credits for exclusive.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # # master # business # # # # #</pattern>
+    <template><lowercase></lowercase>There are 64 credits for regular.<split/>
+    There are 52 credits for exclusive.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # # master # business # # # # #</pattern>
+    <template><lowercase></lowercase>There are 64 credits for regular.<split/>
+    There are 52 credits for exclusive.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # ma # english # #</pattern>
+    <template><lowercase></lowercase>There are 36 credits for both final and normal.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # ma # english # #</pattern>
+    <template><lowercase></lowercase>There are 36 credits for both final and normal.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # master # arts # english # #</pattern>
+    <template><lowercase></lowercase>There are 36 credits for both final and normal.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # master # arts # english # #</pattern>
+    <template><lowercase></lowercase>There are 36 credits for both final and normal.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # msc # math # #</pattern>
+    <template><lowercase></lowercase>There are 77 credits for preliminiary.<split/>
+    There are 40 credits for final.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # msc # math # #</pattern>
+    <template><lowercase></lowercase>There are 77 credits for preliminiary.<split/>
+    There are 40 credits for final.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credit # master # science # math # #</pattern>
+    <template><lowercase></lowercase>There are 77 credits for preliminiary.<split/>
+    There are 40 credits for final.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # credits # master # science # math # #</pattern>
+    <template><lowercase></lowercase>There are 77 credits for preliminiary.<split/>
+    There are 40 credits for final.</template>
+  </category>
+  
+  <category>
+    <pattern># # # head # cse # #</pattern>
+    <template><lowercase></lowercase>Al Mehdi Saadat Chowdhury<split/>
+        <image>http://www.neub.edu.bd/images/faculty/AlMehdiSaadatChowdhury.jpg</image>
+        <split/>Assistant Professor and Head
+        <split/>M.Sc. (Thesis) in CSE
+        <split/>B.Sc. (Engg.) in CSE
+        <split/>
+        Shahjalal University of Science and Technology<split/>
+        Mobile: 01730440808 
+    </template>
+  </category>
+  
+  <category>
+      <pattern># # # head # computer science # # # #</pattern>
+      <template><lowercase></lowercase><srai># # # head # cse # #</srai></template>
+  </category>
+  
+ /* <category>
+    <pattern># # # head # bba # #</pattern>
+    <template><lowercase></lowercase>Dr. Tufayel Ahmed<split/>
+        <image>http://www.neub.edu.bd/images/faculty/ProfessorDrTofayelAhmed.jpg</image><split/>
+        Professor<split/> 
+        Dean, School of Business<split/> 
+        Head, Dept. of Business Administration<split/>
+        Director, Institutional Quality Assurance Cell<split/>
+        Mobile: 01711388598
+    </template>
+  </category>*/
+  
+  <category>
+      <pattern># # # head # business # administration # #</pattern>
+      <template><lowercase></lowercase><srai># # # head # bba # #</srai></template>
+  </category>
+  
+  //above program has completed,dont touch
+  
+  <category>
+    <pattern># # # head # llb # #</pattern>
+    <template><lowercase></lowercase>Abul Hasnat Ibn Abedin
+    <image>http://www.neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image>
+    Associate Professor and Head.<split/>
+    LL.B (Hons.) and LL.M, University of Rajshahi<split/>
+    Ph.D. Fellow, Islamic University, Kushtia<split/>
+    Mobile: 01712990698
+    </template>
+  </category>
+  
+  <category>
+      <pattern># # # head # law # #</pattern>
+      <template><lowercase></lowercase><srai># # # head # llb # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # head # law and justice # #</pattern>
+      <template><lowercase></lowercase><srai># # # head # llb # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # head # english # #</pattern>
+    <template><lowercase></lowercase>Muhammad Shamsul Kabir. Assistant Professor and Head
+    <image>http://www.neub.edu.bd/images/faculty/MuhammadShamsulKabir.jpg</image>
+    BA(Hons.) and MA in English, NU<split/>
+    Intensive English Study (IES),UK<split/>
+    Mobile: 01819560206
+    </template>
+  </category>
+  
+  <category>
+    <pattern># # # # # humanoid robot # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # # sojib # # # # # #</srai><split/>
+    Note: He and his team created it in SUST.The name of robot is RIBO.</template>
+  </category>
+  
+  <category>
+      <pattern># # # # # robot # # #</pattern>
+      <template><lowercase></lowercase><srai># # # # # humanoid robot # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # advantage # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # goal # # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # motive # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # goal # # # # #</srai></template>
+  </category>
+  
+   
+  /*<category>
+    <pattern># # # # Advisor # cse # # #</pattern>
+    <template><lowercase></lowercase>Dr Mohammad Shahidur Rahman<split/>
+    <image>http://nlp.sust.edu/upload/profile/avatar/avatar-18301.jpg</image><split/>
+    Professor, Department of Computer Science and Engineering, Shahjalal University of Science and Technology, Sylhet.<split/>
+    Email: rahmanms.bd@gmail.com<split/>
+    Phone: 01914930807
+    </template>
+    
+  </category>*/
+  
+  <category>
+      <pattern># # # # # # Shahidur # # # # # #</pattern>
+      <template><lowercase></lowercase><srai># # # # Advisor # cse # # #</srai><split/>
+      NB: HE is the advisor of CSE of NEUB. </template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # Shahid # # # # # #</pattern>
+      <template><lowercase></lowercase><srai># # # # Advisor # cse # # #</srai><split/>
+      NB: HE is the advisor of CSE of NEUB. </template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # Sohid # # # # # #</pattern>
+      <template><lowercase></lowercase><srai># # # # Advisor # cse # # #</srai><split/>
+      NB: HE is the advisor of CSE of NEUB. </template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # Sahid # # # # # #</pattern>
+      <template><lowercase></lowercase><srai># # # # Advisor # cse # # #</srai><split/>
+      NB: HE is the advisor of CSE of NEUB. </template>
+  </category>
+   
+  <category>
+    <pattern># # # # successful event # neub # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # successful event # cse # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # successful event # computer science # # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # best event # neub # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # best event # cse # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # best event # computer science # # # # #</pattern>
+    <template><lowercase></lowercase>Techhunt-2017 organized by Dept. of CSE.</template>
+  </category>
+  
+  <category>
+    <pattern># # # robotics # # # teacher # #  #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE</template>
+  </category>
+  <category>
+    <pattern># # # # # # robotics # # # trainer # # # #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE.</template>
+  </category>
+  <category>
+    <pattern># # # # # # robotics # # # mentor # # # #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # # robotic # # # teacher # # # #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE</template>
+  </category>
+  <category>
+    <pattern># # # # # # # robotic # # # trainer # # # #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE</template>
+  </category>
+  <category>
+    <pattern># # # # # # # robotic # # # mentor # # # #</pattern>
+    <template><lowercase></lowercase>Noushad sojib, Lecterur, Dept. of CSE</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # best # # # achievement # neub # # #</pattern>
+    <template><lowercase></lowercase>Wining the third prize in International Robotics Championship(IRC)-2016.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # best # # # achievement # north east # # # # # #</pattern>
+    <template><lowercase></lowercase>Wining the third prize in International Robotics Championship(IRC)-2016.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # best # # # achievement # neub # # #</pattern>
+    <template><lowercase></lowercase>Wining the third prize in International Robotics Championship(IRC)-2016.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # best # # # achievement # cse # # #</pattern>
+    <template><lowercase></lowercase>Wining the third prize in International Robotics Championship(IRC)-2016.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # best # # # achievement # computer science # # # # # #</pattern>
+    <template><lowercase></lowercase>Wining the third prize in International Robotics Championship(IRC)-2016.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # # # president # # cse # # # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # head # cse # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # # # president # # north east # # # # # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # head # cse # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # takes # # # # acm # # # workshop # # # # #</pattern>
+    <template><lowercase></lowercase>**Mir lutfur Rahman sir and Pranta Sarker sir take ACM workshops occassionally.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # takes # # # # acm # # # workshops # # # # #</pattern>
+    <template><lowercase></lowercase>**Mir lutfur Rahman sir and Pranta Sarker sir take ACM workshops occassionally.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # # # acm # # # mentor # # # # #</pattern>
+    <template><lowercase></lowercase>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.</template>
+  </category>
+  <category>
+    <pattern># # # # # # # # acm # # # mentors # # # # #</pattern>
+    <template><lowercase></lowercase>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.</template>
+  </category>
+  <category>
+    <pattern># # # # # # # # acm # # # coach # # # # #</pattern>
+    <template><lowercase></lowercase>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.</template>
+  </category>
+  <category>
+    <pattern># # # # # # # # acm # # # trainer # # # # #</pattern>
+    <template><lowercase></lowercase>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.</template>
+  </category>
+  
+  
+ /* <category>
+    <pattern># # # # # waiver # tution fees # # # #</pattern>
+    <template>Schedule of waiver of tution fees:<split/>
+
+Total GPA(SSC+HSC)= 10.00---------------------------75%<break/>
+
+Total GPA(SSC+HSC)= 9.50 and avobe------------------60%<break/>
+Total GPA(SSC+HSC)= 9.00 and avobe------------------50%<break/>
+Total GPA(SSC+HSC)= 8.50 and avobe------------------40%<break/>
+Total GPA(SSC+HSC)= 8.00 and avobe------------------30%<break/>
+Total GPA(SSC+HSC)= 7.00 and avobe------------------20%<break/>
+
+For female students---------------------------------20%<break/>
+For tribal or physically challenged persons---------15%<break/>
+Second child of same parent or for couple(any one)--50%<break/>
+
+[N.B: One student will be eligible to enjoy only one benifit]<split/>
+* Special waiver for poor and meritorious students;<split/>
+* Group waiver available for graduate student.
+</template>
+  </category>*/
+  
+  <category>
+      <pattern># # # # waiver # # # # # #</pattern>
+      <template><srai># # # # # waiver # tution fees # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # # waivers # # # # # #</pattern>
+      <template><srai># # # # # waiver # tution fees # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # # # waivers # tution fees # # # # # #</pattern>
+      <template><srai># # # # # waiver # tution fees # # # #</srai></template>
+  </category>
+  
+  // above program has completed, dont touch it
+  
+  /* <category>
+    <pattern># # # # requierments # # undergraduate # # # #</pattern>
+    <template><lowercase></lowercase>Admission requierments for Undergraduate programs:
+
+-> Minimum GPA 2.50 both in SSC and HSC or equivalent exams;
+-> GPA 2.00may be considered provided total GPA both levels stands at 6.00;
+-> In 'O' level at least 5 subjects and 'A' level at least 2 subjects with at least four B grades or GPA 4.00 and three C grade or GPA 3.50.
+ You can also visit Our official website: www.neub.edu.bd
+</template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # honours # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # bachelor # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>*/
+  
+  <category>
+    <pattern># # # # requierments # # cse # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # computer science # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # english # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # bba # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # business # administration # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # llb # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # law # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # law # justice # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # # # sociology # # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # bss # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # math # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # mathmatics # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # mathmatic # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # requierments # # # # # chemistry # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # requierments # # undergraduate # # # #</srai></template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # tution # # # # # credit # # # cse # # # # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for CSE is 1650 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # tution # # # # # # credit # bba # # # # #</pattern>
+    <template><lowercase></lowercase>2)Tution fees per credit for BBA is 2150 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # tution fees per credit # llb  # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for LL.B is 1500 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # # tution # # # # # credit # english # # # # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for English is 1450 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # #tution # # # # # credit # # # # # mathematics # # # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for Mathematics and Informatics is 1500 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # tution # # # # # credit # #  # # sociology # # # # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for Applied Sociology and Social Work is 1300 taka.</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # tution # # # # # credit # # # chemistry # # # #</pattern>
+    <template><lowercase></lowercase>Tution fees per credit for Env.Sc. and Chemistry is 1800 taka.</template>
+  </category>
+  
+  /*<category>
+    <pattern># # # # # vc # # # # #</pattern>
+    <template><lowercase></lowercase>Proffessor Dr. Atful Hye Shibly.
+    
+    <image>http://neub.edu.bd/media/k2/items/cache/d632334130a2b9d194362b7d857b88bf_M.jpg</image></template>
+  </category>*/
+  
+  <category>
+    <pattern># # # # # vice chancellor # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # vc # # # # #</srai></template>
+  </category>
+  <category>
+    <pattern># # # # # vice-chancellor # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # vc # # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # chairman # # # # # # # # #</pattern>
+      <template><image>http://neub.edu.bd/media/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_XL.jpg</image>Advocate Iqbal Ahmed Chowdhuy.</template>
+  </category>
+
+/*<category>
+<pattern># # # # DATE # # #</pattern>
+<template><lowercase></lowercase>Today is <date format="%B %d, %Y" /></template>
+</category>*/
+  
+  <category>
+    <pattern># # # # # vice-chancellor # # # # #</pattern>
+    <template><lowercase></lowercase><srai># # # # # vc # # # # #</srai></template>
+  </category>
+  
+  /*<category>
+      <pattern>^ lab ^</pattern>
+      <template><lowercase></lowercase>There are total 5 labs in the Versity.<split/>
+      1. Two Computer labs<split/>2. One internet lab.<split/>3. One Electrical lab.<split/>4. One Robotic lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ labs ^</pattern>
+      <template><lowercase></lowercase><srai>^ lab ^</srai></template>
+  </category>
+  
+  <category>
+      <pattern>^ electrical lab ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electrical labs ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electric lab ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electric labs ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electrics lab ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electrics labs ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electronics lab ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electronics labs ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electronic lab ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ electronic labs ^</pattern>
+      <template><lowercase></lowercase>There are one electric lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ computer lab ^</pattern>
+      <template><lowercase></lowercase>There are two computer labs.</template>
+  </category>
+  
+  <category>
+      <pattern>^ computer labs ^</pattern>
+      <template><lowercase></lowercase>There are two computer labs.</template>
+  </category>
+  
+  <category>
+      <pattern>^ computers lab ^</pattern>
+      <template><lowercase></lowercase>There are two computer labs.</template>
+  </category>
+  
+  <category>
+      <pattern>^ computers labs ^</pattern>
+      <template><lowercase></lowercase>There are two computer labs.</template>
+  </category>
+  
+  <category>
+      <pattern>^ internet lab ^</pattern>
+      <template><lowercase></lowercase>There are one internet lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ internet labs ^</pattern>
+      <template><lowercase></lowercase>There are one internet lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robot lab ^</pattern>
+      <template><lowercase></lowercase>There are one robotic lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robot labs ^</pattern>
+      <template><lowercase></lowercase>There are one robotic lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robotics lab ^</pattern>
+      <template><lowercase></lowercase>There are one robotic lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robotics labs ^</pattern>
+      <template><lowercase></lowercase>There are one robotics lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robotic lab ^</pattern>
+      <template><lowercase></lowercase>There are one robotics lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ robotic labs ^</pattern>
+      <template><lowercase></lowercase>There are one robotic lab.</template>
+  </category>
+  
+  <category>
+      <pattern>^ Mobin ahmed ^</pattern>
+      <template><lowercase></lowercase>The ChatBot developer.<split/>
+      <srai>^ creator ^</srai>
+      </template>
+  </category>
+  
+  <category>
+      <pattern>^ Mobin ^</pattern>
+      <template><lowercase></lowercase>The ChatBot developer.<split/>
+      <srai>^ creator ^</srai></template>
+  </category>
+  
+  <category>
+      <pattern>^ Guru prashad chanda Dip ^</pattern>
+      <template><lowercase></lowercase>The ChatBot developer.</template>
+  </category>
+  
+  <category>
+      <pattern>^ Mahfuzur Rahman ^</pattern>
+      <template><lowercase></lowercase>The ChatBot developer.</template>
+  </category>
+  
+  <category>
+      <pattern>^ money # # # # cse ^</pattern>
+      <template><lowercase></lowercase><srai></srai></template>
+  </category>
+  
+  <category>
+      <pattern>^ just say ^</pattern>
+      <template><lowercase></lowercase><response s="1"/></template>
+  </category>*/
+  
+  <category>
+    <pattern>*</pattern>
+    <template>
+        <image>https://drive.google.com/open?id=16mAUQeiOg4GD4XXcaOQC6qqaATvkzabH</image>Sorry! I didn't understand.<split/>Cheack your words. Was it right?<split/> 
+    Please ask valid questions and maintain the formality for asking questions.<split/>
+     Thank you!
+    </template>
+  </category>
+  
+ </aiml>
+  

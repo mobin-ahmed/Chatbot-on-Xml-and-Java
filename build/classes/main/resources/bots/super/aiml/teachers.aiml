@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+
+//CSE
+	<category>
+    <pattern># # # # # # pranta # # # # # #</pattern>
+    <template><lowercase></lowercase>Pranta Sarker. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, North East University Bangladesh.<image>http://neub.edu.bd/images/faculty/Pranta_Sarker.jpg</image><split/>Mobile: 01680929776</template>
+  </category>
+  
+  	<category>
+    <pattern># # # # # # lutfur # # # # # #</pattern>
+    <template><lowercase></lowercase>Mir Lutfur Rahman. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, North East University Bangladesh.<image>http://neub.edu.bd/images/faculty/Mir_Lutfur_Rahman.jpg</image><split/>Mobile: 01739213886</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # saadat # # # # # #</pattern>
+    <template><lowercase></lowercase>Al Mehdi Saadat Chowdhury. Assistant Professor and Head, Dept of CSE.<split/> M.Sc(Thesis) in CSE and B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/AlMehdiSaadatChowdhury.jpg</image><split/>Mobile: 01730440808</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # sojib # # # # # #</pattern>
+    <template><lowercase></lowercase>Noushad Sojib. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/NoushadSojib.jpg</image><split/>Mobile: 01738610213</template>
+  </category>
+  
+   <category>
+    <pattern># # # # # # Mawla # # # # # #</pattern>
+    <template><lowercase></lowercase>Tanjila Mawla. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/TanjilaMawla.jpg</image><split/>Mobile: 01742789868</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Tanjina # # # # # #</pattern>
+    <template><lowercase></lowercase>Tanjila Mawla. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/TanjilaMawla.jpg</image><split/>Mobile: 01742789868</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Parvez # # # # # #</pattern>
+    <template><lowercase></lowercase>Shahadat Hussain Parvez. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in EEE, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/Shahadat_Hussain_Parvej.jpg</image><split/>Mobile: 01723807161</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Mollah # # # # # #</pattern>
+    <template><lowercase></lowercase>Asrafuzzaman Mollah. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<split/>Mobile: 01673560498</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Asrafuzzaman # # # # # #</pattern>
+    <template><lowercase></lowercase>Asrafuzzaman Mollah. Lecturer, Dept of CSE.<split/>B.Sc(Engg) in CSE, Shahjalal University of Science and Technology.<split/>Mobile: 01673560498</template>
+  </category>
+	
+	/*<category>
+	    <pattern># # # # # # # # number # # # cse # # # # # # # # # # # #</pattern>
+	    <template>
+	        There are seven teachers in CSE:<split/>
+	        Al Mehdi Saadat Chowdhury: 01730440808<split/>
+	        Noushad Sojib: 01738610238<split/>
+	        Asrafuzzaman Mollah: 01673560498<split/>
+	        Tanjina Mawla: 01742789868<split/>
+	        Shahadat Hussain Parvez: 01723807161<split/>
+	        Mir Lutfur Rahman: 01739213886<split/>
+	        Pranta Sarker: 01680929776<split/>
+	    </template>
+    </category>*/
+    
+    
+    
+    
+    //BBA
+    
+    <category>
+    <pattern># # # # # # Tofayel # # # # # #</pattern>
+    <template><lowercase></lowercase>Professor Dr. Tofayel Ahmed. Dean, School of Business<split/>
+Head, Dept. of Business Administration. Director, Institutional Quality Assurance Cell.<image>http://neub.edu.bd/images/faculty/ProfessorDrTofayelAhmed.jpg</image><split/>Mobile: 01711388598</template>
+  </category>
+  
+ <category>
+    <pattern># # # # # # Tahrat # # # # # #</pattern>
+    <template><lowercase></lowercase>Taharat Nawaz. Assistant Professor, Dept of BBA<split/>BBA and MBA, University of Dhaka. <image>http://neub.edu.bd/images/faculty/TaharatNawaz.jpg</image> <split/>Mobile: 01840120109</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Nawaz # # # # # #</pattern>
+    <template><lowercase></lowercase>Taharat Nawaz. Assistant Professor, Dept of BBA<split/>BBA and MBA, University of Dhaka. <image>http://neub.edu.bd/images/faculty/TaharatNawaz.jpg</image> <split/>Mobile: 01840120109</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # saba # # # # # #</pattern>
+    <template><lowercase></lowercase>Fathema Rashid Saba. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/FathemaRashidSaba.jpg</image> <split/>Mobile: 01916465795</template>
+  </category>
+  <category>
+    <pattern># # # # # # Fathema Rashid # # # # # #</pattern>
+    <template><lowercase></lowercase>Fathema Rashid Saba. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/FathemaRashidSaba.jpg</image> <split/>Mobile: 01916465795</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # sultana # # # # # #</pattern>
+    <template><lowercase></lowercase>Rebeka Sultana Chowdhury. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/RebekaSultanaChowdhury.jpg</image> <split/>Mobile: 01911178331</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # rebeka # # # # # #</pattern>
+    <template><lowercase></lowercase>Rebeka Sultana Chowdhury. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/RebekaSultanaChowdhury.jpg</image> <split/>Mobile: 01911178331</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Hani # # # # # #</pattern>
+    <template><lowercase></lowercase>Fathema Farjana Hani. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/FathemaFarjanaHani.jpg</image> <split/>Mobile: 01722353862</template>
+  </category>
+  <category>
+    <pattern># # # # # # Fathema Farjana # # # # # #</pattern>
+    <template><lowercase></lowercase>Fathema Farjana Hani. Assistant Professor, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science snd Technology. <image>http://neub.edu.bd/images/faculty/FathemaFarjanaHani.jpg</image> <split/>Mobile: 01722353862</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Lalin # # # # # #</pattern>
+    <template><lowercase></lowercase>Shamim Al Aziz Lalin. Assistant Professor, Dept of BBA<split/>BBA and MBA, Comilla University. <image>http://neub.edu.bd/images/faculty/ShamimAlAzizLalin.jpg</image> <split/>Mobile: 01924738748</template>
+  </category>
+  <category>
+    <pattern># # # # # # Shamim Al Aziz # # # # # #</pattern>
+    <template><lowercase></lowercase>Shamim Al Aziz Lalin. Assistant Professor, Dept of BBA<split/>BBA and MBA, Comilla University. <image>http://neub.edu.bd/images/faculty/ShamimAlAzizLalin.jpg</image> <split/>Mobile: 01924738748</template>
+  </category>
+  <category>
+    <pattern># # # # # # aziz lain # # # # # #</pattern>
+    <template><lowercase></lowercase>Shamim Al Aziz Lalin. Assistant Professor, Dept of BBA<split/>BBA and MBA, Comilla University. <image>http://neub.edu.bd/images/faculty/ShamimAlAzizLalin.jpg</image> <split/>Mobile: 01924738748</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # khaled # # # # # #</pattern>
+    <template><lowercase></lowercase>Jahanjeb Ibne Khaled. Lecturer, Dept of BBA<split/>BBA and MBA, University of Dhaka. <image>http://neub.edu.bd/images/faculty/JahanjebIbnKhaled.jpg</image> <split/>Mobile: 0183450459</template>
+  </category>
+  <category>
+    <pattern># # # # # # jahanjeb # # # # # #</pattern>
+    <template><lowercase></lowercase>Jahanjeb Ibne Khaled. Lecturer, Dept of BBA<split/>BBA and MBA, University of Dhaka. <image>http://neub.edu.bd/images/faculty/JahanjebIbnKhaled.jpg</image> <split/>Mobile: 0183450459</template>
+  </category>
+  <category>
+    <pattern># # # # # # jk # # # # # #</pattern>
+    <template><lowercase></lowercase>Jahanjeb Ibne Khaled. Lecturer, Dept of BBA<split/>BBA and MBA, University of Dhaka. <image>http://neub.edu.bd/images/faculty/JahanjebIbnKhaled.jpg</image> <split/>Mobile: 0183450459</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # manni # # # # # #</pattern>
+    <template><lowercase></lowercase>Umme Humayara Manni. Lecturer, Dept of BBA<split/>BSS(Hons) in Economics, Khulna University.<split/>M.A in Economics, UBD, Brunei.<image>http://neub.edu.bd/images/faculty/UmmeHumayaraManni.jpg</image> <split/>Mobile: 01710775377</template>
+  </category>
+  <category>
+    <pattern># # # # # # Humayara manni # # # # # #</pattern>
+    <template><lowercase></lowercase>Umme Humayara Manni. Lecturer, Dept of BBA<split/>BSS(Hons) in Economics, Khulna University.<split/>M.A in Economics, UBD, Brunei.<image>http://neub.edu.bd/images/faculty/UmmeHumayaraManni.jpg</image> <split/>Mobile: 01710775377</template>
+  </category>
+  <category>
+    <pattern># # # # # # Humayara # # # # # #</pattern>
+    <template><lowercase></lowercase>Umme Humayara Manni. Lecturer, Dept of BBA<split/>BSS(Hons) in Economics, Khulna University.<split/>M.A in Economics, UBD, Brunei.<image>http://neub.edu.bd/images/faculty/UmmeHumayaraManni.jpg</image> <split/>Mobile: 01710775377</template>
+  </category>
+  <category>
+    <pattern># # # # # # Umme Humayara # # # # # #</pattern>
+    <template><lowercase></lowercase>Umme Humayara Manni. Lecturer, Dept of BBA<split/>BSS(Hons) in Economics, Khulna University.<split/>M.A in Economics, UBD, Brunei.<image>http://neub.edu.bd/images/faculty/UmmeHumayaraManni.jpg</image> <split/>Mobile: 01710775377</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # mizan # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Mizanur Rahman. Lecturer, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/Md.MizanurRahman.jpg</image> <split/>Mobile: 01716918676</template>
+  </category>
+   <category>
+    <pattern># # # # # # mizanur # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Mizanur Rahman. Lecturer, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/Md.MizanurRahman.jpg</image> <split/>Mobile: 01716918676</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # nasir # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Nasir Uddin. Lecturer, Dept of BBA<split/>BBA and MBA, Jagannath University.<image>http://neub.edu.bd/images/faculty/MdNasirUddin.jpg</image> <split/>Mobile: 01717638643</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # shimu # # # # # #</pattern>
+    <template><lowercase></lowercase>Noor Jahan Shimu. Lecturer, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/NoorJahanShimu.jpg</image> <split/>Mobile: 01685385072</template>
+  </category>
+   <category>
+    <pattern># # # # # # noorjahan # # # # # #</pattern>
+    <template><lowercase></lowercase>Noor Jahan Shimu. Lecturer, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/NoorJahanShimu.jpg</image> <split/>Mobile: 01685385072</template>
+  </category>
+   <category>
+    <pattern># # # # # # noor jahan # # # # # #</pattern>
+    <template><lowercase></lowercase>Noor Jahan Shimu. Lecturer, Dept of BBA<split/>BBA and MBA, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/NoorJahanShimu.jpg</image> <split/> Mobile: 01685385072</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Amir # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Amir Hushen. Lecturer, Dept of BBA<split/>BBA and MBA, Leading University.<image>http://neub.edu.bd/images/faculty/MdAmirHushenKhan.jpg</image> <split/> Mobile: 01670113636</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Samiha # # # # # #</pattern>
+    <template><lowercase></lowercase>Samiha Sanjana. Lecturer, Dept of BBA<split/>BBA and MBA, Leading University.<image>http://neub.edu.bd/images/faculty/SamihaSanjana.jpg</image> <split/> Mobile: 01722642886</template>
+  </category>
+  
+   <category>
+    <pattern># # # # # # Sanjana # # # # # #</pattern>
+    <template><lowercase></lowercase>Samiha Sanjana. Lecturer, Dept of BBA<split/>BBA and MBA, Leading University.<image>http://neub.edu.bd/images/faculty/SamihaSanjana.jpg</image> <split/> Mobile: 01722642886</template>
+  </category>
+  
+   <category>
+    <pattern># # # # # # Israt # # # # # #</pattern>
+    <template><lowercase></lowercase>Ishrat Sharmin. Lecturer, Dept of BBA<split/>BBA and MBA, North East University Bangladesh.<image>http://neub.edu.bd/images/faculty/Ishrat_Sharmin.jpg</image> <split/> Mobile: 01923754115</template>
+  </category>
+  <category>
+    <pattern># # # # # # Sharmin # # # # # #</pattern>
+    <template><lowercase></lowercase>Ishrat Sharmin. Lecturer, Dept of BBA<split/>BBA and MBA, North East University Bangladesh.<image>http://neub.edu.bd/images/faculty/Ishrat_Sharmin.jpg</image> <split/> Mobile: 01923754115</template>
+  </category>
+ 
+  
+  <category>
+	    <pattern># # # # # # # # number # # # bba # # # # # # # # # # # #</pattern>
+	    <template>
+	        Dr. Tofayel Ahmed: 01711388598<split/>
+	        Taharat Nawaz: 01840120109<split/>
+	        Fathema Rashid Saba: 01916465795<split/>
+	        Rebeka Sultana Chowdhury: 01911178331<split/>
+	        Fathema Farjana Hani: 01722353862<split/>
+	        Shamim Al Aziz Lalin: 01924738748<split/>
+	        Jahanjeb Ibne Khaled:  0183450459<split/>
+	        Umme Humayara Manni: 01710775377<split/>
+	        Md. Mizanur Rahman: 01716918676<split/>
+	        Md. Nasir Uddin: 01717638643<split/>
+	        Noor Jahan Shimu: 01685385072<split/>
+	        Md. Amir Hushen: 01670113636<split/>
+	        Samiha Sanjana: 01722642886<split/>
+	        Ishrat Sharmin: 01923754115<split/>
+	    </template>
+    </category>
+    
+    
+    
+  //English
+  
+   <category>
+    <pattern># # # # # # shamsul kabir # # # # # #</pattern>
+    <template><lowercase></lowercase>Muhammad Shamsul Kabir. Assistant Professor and Head, Dept of English<split/>BA(Hons) and MA in English, NU<split/>Intensive English Study (IES),UK.<image>http://neub.edu.bd/images/faculty/MuhammadShamsulKabir.jpg</image> <split/>Mobile: 01819560256</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Nusrat # # # # # #</pattern>
+    <template><lowercase></lowercase>Nusrat Rikza. Assistant Proffesor, Dept of English <split/>BA(Hons) and MA in English, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/MsNusratRikza.jpg</image> <split/>Mobile: 01673635510</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Tamanna # # # # # #</pattern>
+    <template><lowercase></lowercase>Masuma Akhter Tamanna. Lecturer, Dept of English <split/>BA(Hons) and MA in English, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/MasumaAkhterTamanna.jpg</image> <split/>Mobile: 01712496024</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # sumaiya # # # # # #</pattern>
+    <template><lowercase></lowercase>Sumaiya Ahmed. Lecturer, Dept of English <split/>BA(Hons) and MA in English, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/SumaiyaRahman.jpg</image> <split/>Mobile: 01521554009</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # ahlam # # # # # #</pattern>
+    <template><lowercase></lowercase>Ahlam Binth Abdul Muhith. Lecturer, Dept of English <split/>BA(Hons) and MA in English, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/AhlamBinteAbdulMuhit.jpg</image> <split/>Mobile: 01749313525</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # Prasenjit # # # # # #</pattern>
+    <template><lowercase></lowercase>Prasenjit Kumar Ghosh. Lecturer, Dept of English <split/>BA(Hons) and MA in English, North East University Bangladesh.<image>http://neub.edu.bd/images/faculty/PrasenjirKumarGhosh.jpg</image> <split/>Mobile: 01743438049</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # fatema # # # # # #</pattern>
+    <template><lowercase></lowercase>Kaniz Fatema. Lecturer, Dept of English <split/>BA(Hons) and MA in English, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/KanizFatena.jpg</image> <split/>Mobile: 01929991688</template>
+  </category>
+  
+  
+  <category>
+	    <pattern># # # # # # # # number # # # english # # # # # # # # # # # #</pattern>
+	    <template>
+	        Muhammad Shamsul Kabir: 01819560256<split/>
+	        Nusrat Rikza: 01673635510<split/>
+	        Masuma Akhter Tamanna: 01712496024<split/>
+	        Sumaiya Ahmed: 01521554009<split/>
+	        Ahlam Binth Abdul Muhith: 01749313525<split/>
+	        Prasenjit Kumar Ghosh: 01743438049<split/>
+	        Kaniz Fatema: 01929991688<split/>
+	    </template>
+    </category>
+    
+    
+  
+  //LLB
+  
+  <category>
+    <pattern># # # # # # hasanat # # # # # #</pattern>
+    <template><lowercase></lowercase>Abul Hasanat Ibn Abedin. Associate Professor and Head, Dept of Law and Justice.<split/>LL.B(Hons) and LL.M, University of Rajshahi.<split/>Ph.D. Fellow, Islamic University, Kushtia.<image>http://neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image> <split/>Mobile: 01712990698</template>
+  </category>
+  <category>
+    <pattern># # # # # # Abedin # # # # # #</pattern>
+    <template><lowercase></lowercase>Abul Hasanat Ibn Abedin. Associate Professor and Head, Dept of Law and Justice.<split/>LL.B(Hons) and LL.M, University of Rajshahi.<split/>Ph.D. Fellow, Islamic University, Kushtia.<image>http://neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image> <split/>Mobile: 01712990698</template>
+  </category>
+  <category>
+    <pattern># # # # # # Abul hasanat # # # # # #</pattern>
+    <template><lowercase></lowercase>Abul Hasanat Ibn Abedin. Associate Professor and Head, Dept of Law and Justice.<split/>LL.B(Hons) and LL.M, University of Rajshahi.<split/>Ph.D. Fellow, Islamic University, Kushtia.<image>http://neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image> <split/>Mobile: 01712990698</template>
+  </category>
+  <category>
+    <pattern># # # # # # ibn abedin # # # # # #</pattern>
+    <template><lowercase></lowercase>Abul Hasanat Ibn Abedin. Associate Professor and Head, Dept of Law and Justice.<split/>LL.B(Hons) and LL.M, University of Rajshahi.<split/>Ph.D. Fellow, Islamic University, Kushtia.<image>http://neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image> <split/>Mobile: 01712990698</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # nayem # # # # # #</pattern>
+    <template><lowercase></lowercase>Dr. Md. Nayem Alimul Hyder. Associate Professor, Dept of Law and Justice. <split/>LL.B(Hons), University of London, UK<split/>LL.M, Liverpool John Moores University, UK<split/>
+MSS(Social Work), University of Dhaka<split/>Ph.D in Law, COU, UK.<image>http://neub.edu.bd/images/faculty/Dr._Nayem_Alimul_Haydar.jpg</image> <split/>Mobile: 01911392549</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # jakir # # # # # #</pattern>
+    <template><lowercase></lowercase>Jakir Hossain. Assistant Proffesor, Dept of Law and Justice <split/>LL.B(Hons) and LL.M, University of Chittagong.<image></image> <split/>Mobile: 01838290630</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # farid # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Fariduzzaman. Lecturer, Dept of Law and Justice <split/>LL.B(Hons) and LL.M, University of Dhaka.<image>http://neub.edu.bd/images/faculty/MdFariduzzaman.jpg</image> <split/>Mobile: 01920936031</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # fariduzzaman # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Fariduzzaman. Lecturer, Dept of Law and Justice <split/>LL.B(Hons) and LL.M, University of Dhaka.<image>http://neub.edu.bd/images/faculty/MdFariduzzaman.jpg</image> <split/>Mobile: 01920936031</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # rasel # # # # # #</pattern>
+    <template><lowercase></lowercase>Golam Faruque Rasel. Lecturer, Dept of Law and Justice <split/>LL.B(Hons) and LL.M, University of Dhaka.<image>http://neub.edu.bd/images/faculty/GolamFaruqueRasel.jpg</image> <split/>Mobile: 01746675476</template>
+  </category>
+  
+  <category>
+	    <pattern># # # # # # # # number # # # llb # # # # # # # # # # # #</pattern>
+	    <template> 
+	        Abul Hasanat Ibn Abedin: 01712990698<break/>
+	        Dr. Md. Nayem Alimul Hyder: 01911392549<split/>
+	        Jakir Hossan: 01838290630<split/>
+	        Md. Fariduzzaman: 01920936031<split/>
+	        Golam Faruque Rasel: 01746675476<split/> 
+	    </template>
+    </category>
+    <category>
+        <pattern># # # # # # # # number # # # ll.b # # # # # # # # # # # #</pattern>
+        <template><srai># # # # # # # # number # # # llb # # # # # # # # # # # #</srai></template>
+    </category>
+    <category>
+        <pattern># # # # # # # # number # # # law # # # # # # # # # # # #</pattern>
+        <template><srai># # # # # # # # number # # # llb # # # # # # # # # # # #</srai></template>
+    </category>
+    
+  
+  //sociology
+  
+  <category>
+    <pattern># # # # # # tanvir # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Thanvir Ahmed Chowdhury. Associate Professor and Head, Dept of Applied Sociology and Social Work. <split/>BSS and MSS(Sociology), SUST.<split/>MDS(LSBU), United Kingdom.<split/>Ph.D. (Fellow), SUST.<image>http://neub.edu.bd/images/faculty/MdThanvirAhmedChowdhury.jpg</image> <split/>Mobile: 0171400833</template>
+  </category>
+  <category>
+    <pattern># # # # # # thanvir # # # # # #</pattern>
+    <template><lowercase></lowercase>Md. Thanvir Ahmed Chowdhury. Associate Professor and Head, Dept of Applied Sociology and Social Work. <split/>BSS and MSS(Sociology), SUST.<split/>MDS(LSBU), United Kingdom.<split/>Ph.D. (Fellow), SUST.<image>http://neub.edu.bd/images/faculty/MdThanvirAhmedChowdhury.jpg</image> <split/>Mobile: 0171400833</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # mydul # # # # # #</pattern>
+    <template><lowercase></lowercase>Mydul Islam Chowdhury. Lecturer, Dept of Law and Justice <split/>BSS(Hons) and MSS, Shahjalal University of Science and Technology.<image>http://neub.edu.bd/images/faculty/MydulIslamChowdhury.jpg</image> <split/>Mobile: 01671879255</template>
+  </category>
+  
+  <category>
+	    <pattern># # # # # # # # # # # number # # # # # # # # # # # sociology # # # # # # #</pattern>
+	    <template> 
+	        Md. Thanvir Ahmed Chowdhury: 0171400833<split/>
+	        Mydul Islam Chowdhury: 01671879255<split/> 
+	    </template>
+    </category>
+    <category>
+	    <pattern># # # # # # # # number # # # # # # # bss # # # # # # # # #</pattern>
+	    <template> 
+	        Md. Thanvir Ahmed Chowdhury: 0171400833<split/>
+	        Mydul Islam Chowdhury: 01671879255<split/> 
+	    </template>
+    </category>
+    
+    
+  //Math
+  
+  <category>
+    <pattern># # # # # # rathindra # # # # # #</pattern>
+    <template><lowercase></lowercase>Rathindra Chandra Gope. Assistant Professor and Head, Dept of Mathematics and Informatics. <split/>B.Sc and M.Sc in Mathematics, Shahjalal University of Science and Technology.<split/>PG Cert. QMU, United Kingdom<split/>M.Phil(Running), Shahjalal University of Science and Technology<image>http://neub.edu.bd/images/faculty/RatindraChandraGope.jpg</image> <split/>Mobile: 01717021263</template>
+  </category>
+  
+  <category>
+    <pattern># # # # # # RC # # # # # #</pattern>
+    <template><lowercase></lowercase>Rathindra Chandra Gope. Assistant Professor and Head, Dept of Mathematics and Informatics. <split/>B.Sc and M.Sc in Mathematics, Shahjalal University of Science and Technology.<split/>PG Cert. QMU, United Kingdom<split/>M.Phil(Running), Shahjalal University of Science and Technology<image>http://neub.edu.bd/images/faculty/RatindraChandraGope.jpg</image> <split/>Mobile: 01717021263</template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # # club # # # # # # # # #</pattern>
+      <template><lowercase></lowercase>
+      NEUB CSE Society(run by CSE dept. and only for the CSE students)<split/>
+      NEUB Business Club(run by BBA dept. and only for the BBA students.)<split/>
+      NEUB Tourist Club<split/>
+      NEUB Debate Club<split/>
+      NEUB Cultural Club<split/>
+      NEUB Social Service Club<split/>
+      NEUB Sports Club<split/>
+      </template> 
+  </category>
+  
+  <category>
+      <pattern># # # # # # # clubs # # # # # # # # #</pattern>
+      <template><srai># # # # # # # club # # # # # # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # # society # # # # # # # # #</pattern>
+      <template><srai># # # # # # # club # # # # # # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern># # # # # # # societies # # # # # # # # #</pattern>
+      <template><srai># # # # # # # club # # # # # # # # #</srai></template>
+  </category>
+  
+  <category>
+      <pattern>code[/s]</pattern>
+      <template>blocks</template>
+  </category>
+  
+  
+</aiml>

@@ -1,0 +1,15 @@
+0,# CALCULATE # SEMESTER FEE # WAIVER,*,*,Whats your waiver#Comma subject and credits,udc1.aiml
+0,# # # 50 # # # # # CSE # # # # 12,*,*,Ok got it.Your calculation----&gt; (1650 multiply 12 multiply 0.5) + 3600= 13500,udc1.aiml
+0,# # # 50 # # # # # CSE # # # # 13,*,*,Ok got it.Your calculation----&gt; (1650 multiply 13 multiply 0.5) + 3600= 14325,udc1.aiml
+0,# # # 75 # # # # # CSE # # # # 12,*,*,Ok got it.Your calculation----&gt; (1650 multiply 12 multiply 0.25) + 3600= 8550,udc1.aiml
+0,# # # 75 # # # # # CSE # # # # 13,*,*,Ok got it.Your calculation----&gt; (1650 multiply 13 multiply 0.25) + 3600= 8962.5,udc1.aiml
+0,# # # 75 # # # # # CSE # # # # 14,*,*,Ok got it.Your calculation----&gt; (1650 multiply 14 multiply 0.25) + 3600= 9375,udc1.aiml
+0,# # # 75 # # # # # ENGLISH # # # # 12,*,*,Ok got it.Your calculation----&gt; (1450 multiply 12 multiply 0.25) + 2600= 6950,udc1.aiml
+0,# # # 75 # # # # # ENGLISH # # # # 13,*,*,Ok got it.Your calculation----&gt; (1450 multiply 13 multiply 0.25) + 2600= 7312.5,udc1.aiml
+0,# # # 75 # # # # # ENGLISH # # # # 14,*,*,Ok got it.Your calculation----&gt; (1450 multiply 14 multiply 0.25) + 2600= 7675,udc1.aiml
+0,# # # 60 # # # # # ENGLISH # # # # 12,*,*,Ok got it.Your calculation----&gt; (1450 multiply 12 multiply 0.4) + 2600=,udc1.aiml
+0,RTE,*,*,<lowercase/>At 0 percent waiver= 322200 taka.,udc1.aiml
+0,# # # TOTAL COST # COMPUTER SCIENCE # # # #,*,*,<lowercase/>At 0 percent waiver= 322200 taka.<split/>   #Newline    At 20 percent waiver= 269400 taka.<split/>    #Newline    At 30 percent waiver= 243000 taka.<split/>   #Newline    At 40 percent waiver= 216600 taka.<split/>    #Newline    At 50 percent waiver= 190200 taka.<split/>    #Newline    At 60 percent waiver= 163800 taka.<split/>    #Newline    At 75 percent waiver= 124200 taka.,udc1.aiml
+0,# # # TOTAL COST # CSE # #,*,*,<lowercase/><srai># # # total cost # computer science # # # #</srai>,udc1.aiml
+0,# # #  COST # CSE # #,*,*,<lowercase/><srai># # # total cost # computer science # # # #</srai>,udc1.aiml
+0,# # #  COST # COMPUTER SCIENCE # #,*,*,<lowercase/><srai># # # total cost # computer science # # # #</srai>,udc1.aiml

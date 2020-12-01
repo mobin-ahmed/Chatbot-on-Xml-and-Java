@@ -1,0 +1,213 @@
+0,^ HI ^,*,*,<lowercase/>#Newline    <video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please#Commalet me know how can i help you.,udc.aiml
+0,^ HEY ^,*,*,<lowercase/><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please#Commalet me know how can i help you.,udc.aiml
+0,^ HELLO ^,*,*,<lowercase/><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Hi!<split/>Glad to meet you.<split/>Please#Commalet me know how can i help you.,udc.aiml
+0,^ HOW ARE YOU ^,*,*,<lowercase/><video>https://www.pandorabots.com/mitsuku/img/mitsuku.mp4</video>Oh!! Thank you.<split/>#Newline      I am fine.<split/>Are you ok ?,udc.aiml
+0,# # # NAME OF # UNIVERSITY #,*,*,<lowercase/>North East University Bangladesh,udc.aiml
+0,^ ACHIEVEMENT ^,*,*,<lowercase/>NEUB Megatron of CSE dept become runners up in International Robotics Championship in Mumbai.,udc.aiml
+0,^ GROUND ^,*,*,<lowercase/>We have a small yard at the ground floor. Especially used for parking cars#Comma bikes.,udc.aiml
+0,^ CLASS TIME ^,*,*,8:30 am to 2:30 pm,udc.aiml
+0,^ OFFICE TIME ^,*,*,8:30 am to 5:00 pm,udc.aiml
+0,# # # UNIVERSITY NAME #,*,*,<lowercase/>North East University Bangladesh,udc.aiml
+0,^ HOSTEL ^,*,*,<lowercase/> There is no Hostel in our University.,udc.aiml
+0,^ HALL ^,*,*,<lowercase/> There is no Hostel in our University.,udc.aiml
+0,^ TOTAL # # # # STUDENTS ^,*,*,<lowercase/> There are about 2300 stuednts in our University.,udc.aiml
+0,^ TIME # # # # # FROM ^,*,*,Telihaor#Comma Sheikhghat#Comma Sylhet(City Campus).<split/>Click the button below to see the map.<button><text>Go for it</text><url>https://www.google.com/maps/place/North+East+University+Bangladesh/@24.8901004#Comma91.8587668#Comma17z/data=!4m5!3m4!1s0x3751aacd70cd7665:0xc8ae330ad72490dd!8m2!3d24.8900955!4d91.8609555</url></button>,udc.aiml
+0,^ FAR # # # # # FROM ^,*,*,Telihaor#Comma Sheikhghat#Comma Sylhet(City Campus).<split/>Click the button below to see the map.<button><text>Go for it</text><url>https://www.google.com/maps/place/North+East+University+Bangladesh/@24.8901004#Comma91.8587668#Comma17z/data=!4m5!3m4!1s0x3751aacd70cd7665:0xc8ae330ad72490dd!8m2!3d24.8900955!4d91.8609555</url></button>,udc.aiml
+0,# # # # # ADMISSION # # # #,*,*,<lowercase/>Ok. I got it. The admission is open within 3 sessions(Spring#Comma Summer and Fall). The required CGPA(SSC+HSC) must be avobe 2.5 each. You have to pay total admission fee 15000 taka.#Newline    <split/>#Newline    You have to take an admission form from the admission office and should fill it correctly.#Newline    After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet#Comma HSC mark sheet#Comma both certificates#Comma both registration cards). #Newline    You also have to provide the required passport size photo and copy of your birth certificate. #Newline    <split/>#Newline    NOTE: For Graduate programs MBA#Comma EMBA#Comma MSc in Math#Comma GDC in Math#Comma LLM#Comma MA in English the admission fee is 8000 taka. For Master in App. Sociology#Comma Master in Social Work#Comma MDS#Comma Foundation Course in App. Sociology and Social Work admission fee is 10000 taka.,udc.aiml
+0,# # SEMESTERS # # #,*,*,<lowercase/>There are three semesters in a year. Namely Summer#CommaSpring and Fall,udc.aiml
+0,^ STUFFS ^,*,*,about 50 stuff of different classes(without teachers),udc.aiml
+0,^ STUFF ^,*,*,about 50 stuff of different classes(without teachers),udc.aiml
+0,# # # # # # SPRING # # #,*,*,<lowercase/>Ok!! Generally spring semester starts from January first week and the semester final exam will held in last week of April#Comma you are allowed to take admission before the mid-semester examination which will held in February last week. you have to take an admission form from the admission office and should fill it correctly.After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet#Comma HSC mark sheet#Comma both certificates#Commaboth registration cards). You also have to provide the required passport size photo and copy of your birth certificate.,udc.aiml
+0,# # # # # # SUMMER # # #,*,*,<lowercase/>Ok!! Generally summer semester starts from May first week and the semester final exam will held in last week of August#Comma you are allowed to take admission before the mid-semester examination which will held in June last week. you have to take an admission form from the admission office and should fill it correctly.After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet#Comma HSC mark sheet#Comma both certificates#Comma both registration cards). You also have to provide the required passport size photo and copy of your birth certificate.,udc.aiml
+0,# # # # # # FALL # # #,*,*,<lowercase/>Ok!! Generally fall semester starts from September first week and the semester final exam will held in last week of December. you are allowed to take admission before the mid-semester examination which will held in October last week. you have to take an admission form from the admission office and should fill it correctly. After that you have to provide your past educational records(e.g photocopy of the SSC mark sheet#Comma HSC mark sheet#Comma both certificates#Comma both registration cards). You also have to provide the required passport size photo and copy of your birth certificate.,udc.aiml
+0,^ NAME # # # UNIVERSITY ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^  NAME # # # VARSITY ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^  NAME # # # INSTITUTE ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^  NAME # # # INSTITUTION ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^ INSTITUTION # # # NAME ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^ UNIVERSITY # # # NAME ^,*,*,<lowercase/>North East University Bangladesh(NEUB),udc.aiml
+0,^ DEPARTMENTS ^,*,*,<lowercase/>There are seven departments:<split/>#Newline1) Computer and Science  Engineering.<split/>#Newline2) Business Administration.<split/>#Newline3) English.<split/>#Newline4) Law and Justice.<split/>#Newline5) Mathematics and Informatics.<split/>#Newline6) Environmental Science and Chemistry.<split/>#Newline7) Applied Sociology and Social Work.<split/>#NewlineThere are also two graduate programs: Master of Public Health(MPH) and Master of development studies(MDS).,udc.aiml
+0,^ DEPARTMENT ^,*,*,<lowercase/><srai>^ departments ^</srai>,udc.aiml
+0,^ DEPT. ^,*,*,<lowercase/><srai>^ departments ^</srai>,udc.aiml
+0,^ DEPT ^,*,*,<lowercase/><srai>^ departments ^</srai>,udc.aiml
+0,# # ABOUT NEUB # #,*,*,<lowercase/><image>http://neub.edu.bd/media/k2/items/cache/d382bd8ae87d9139df6458192532657c_L.jpg</image>North East University Bangladesh(NEUB) is a well-known private University in Bangladesh situated in the holy city of Sylhet that established in 2012 and becoming the most promising institution for higher studies in the country. The owner and chairman of board of trusties(BOT) is Adv. Iqbal Ahed Chowdhury. The name of Vice-Chancelor is Proffesor Dr. Atful Hye Shibly. Our current campus(City campus) is at Telihaor#Comma Sheikhghat and our permanent campus is under constraction at Hetimgonj#Comma Golapgonj#Comma Sylhet.#Newline.,udc.aiml
+0,NEUB,*,*,<lowercase/><srai/># # about neub # #,udc.aiml
+0,# # ABOUT NORTH EAST # #,*,*,<lowercase/><srai># # # neub # #</srai>,udc.aiml
+0,NORTH EAST # #,*,*,<lowercase/><srai>neub</srai>,udc.aiml
+0,<PATTERN/>,*,*,<template/>,udc.aiml
+0,# # # GOAL # # # # #,*,*,<lowercase/>Education with Inovation.Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty#Comma quality curriculum#Comma qulity of libraries#Comma labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.,udc.aiml
+0,# # # VISION # # # # #,*,*,<lowercase/>Education with Inovation.Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty#Comma quality curriculum#Comma qulity of libraries#Comma labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.,udc.aiml
+0,# # # MISSION # # # # #,*,*,<lowercase/> Our mission is to provide quality education at effordable costs. We believe that imparting of quality education depends on the quality of the faculty#Comma quality curriculum#Comma qulity of libraries#Comma labs and resources as well as the descipline and relation between humans. Our graduates are expected to be able to contribute to the nation building activities as a productive force.,udc.aiml
+0,# # # TARGET # # # # #,*,*,<lowercase/><srai># # # goal # # # # #</srai>,udc.aiml
+0,# # # # # # # LOCATION # # # # # # # # # #,*,*,<lowercase/>Telihaor#Comma Sheikhghat#Comma Sylhet(City Campus).#Newline        <split/>Click the button below to see the map.#Newline        <button>#Newline            <text>Go for it</text>#Newline            <url>https://www.google.com/maps/place/North+East+University+Bangladesh/@24.8901004#Comma91.8587668#Comma17z/data=!4m5!3m4!1s0x3751aacd70cd7665:0xc8ae330ad72490dd!8m2!3d24.8900955!4d91.8609555</url>#Newline        </button>,udc.aiml
+0,# # WHERE # # # # # # NORTH EAST # # # #,*,*,<lowercase/><srai># # # # # # # location # # # # # # # #</srai>,udc.aiml
+0,# # WHERE # # # # # # NEUB # # # #,*,*,<lowercase/><srai># # # # # # # location # # # # # # # #</srai>,udc.aiml
+0,# # # # # # DIRECTION # # # # # # # # # #,*,*,<lowercase/><srai># # # # # # # location # # # # # # # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # BBA # #,*,*,<lowercase/><srai>&gt;# # faculty member # business administration # #</srai>,udc.aiml
+0,# # TEACHERS # BBA # #,*,*,<lowercase/><srai>&gt;# # faculty member # business administration # #</srai>,udc.aiml
+0,# # FACULTY MEMBER # BBA # #,*,*,<lowercase/><srai>&gt;# # faculty member # business administration # #</srai>,udc.aiml
+0,# # TEACHER # BBA # #,*,*,<lowercase/><srai>&gt;# # faculty member # business administration # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # BUSINESS ADMINISTRATION # #,*,*,<lowercase/><srai>&gt;# # faculty member # business administration # #</srai>.,udc.aiml
+0,# # FACULTY MEMBER # BUSINESS ADMINISTRATION # #,*,*,<lowercase/>There are 14 faculty members in the Department#Newline    #Newline    <ul>#Newline            <li>Dr. Tofayel Ahmed.</li>#Newline	        <li>Taharat Nawaz.</li>#Newline	        <li>Fathema Rashid Saba.</li>#Newline	        <li>Rebeka Sultana Chowdhury.</li>#Newline	        <li>Fathema Farjana Hani.</li>#Newline	        <li>Shamim Al Aziz Lalin.</li>#Newline	        <li>Jahanjeb Ibne Khaled.</li>#Newline	        <li>Umme Humayara Manni.</li>#Newline	        <li>Md. Mizanur Rahman.</li>#Newline	        <li>Md. Nasir Uddin.</li>#Newline	        <li>Noor Jahan Shimu.</li>#Newline	        <li>Md. Amir Hushen.</li>#Newline	        <li>Samiha Sanjana.</li>#Newline	        <li>Ishrat Sharmin.</li>#Newline        #Newline    </ul>#Newline    #Newline    .,udc.aiml
+0,# # TEACHERS # BUSINESS ADMINISTRATION # #,*,*,<lowercase/>There are 14 faculty members in the Department.,udc.aiml
+0,# # TEACHER # BUSINESS ADMINISTRATION # #,*,*,<lowercase/>There are 14 faculty members in the Department.,udc.aiml
+0,# # TEACHER # ENGLISH # #,*,*,<lowercase/><srai># # faculty members # english # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # ENGLISH # #,*,*,<lowercase/>There are 7 faculty members in the Department.#Newline    #Newline    <ul>#Newline        <li>Muhammad Shamsul Kabir.</li>#Newline	    <li>Nusrat Rikza.</li>#Newline	    <li>Masuma Akhter Tamanna.</li>#Newline	    <li>Sumaiya Ahmed.</li>#Newline	    <li>Ahlam Binth Abdul Muhith.</li>#Newline	    <li>Prasenjit Kumar Ghosh.</li>#Newline	    <li>Kaniz Fatema.</li>#Newline	</ul>,udc.aiml
+0,# # FACULTY MEMBER # ENGLISH # #,*,*,<lowercase/><srai># # faculty members # english # #</srai>,udc.aiml
+0,# # TEACHERS # ENGLISH # #,*,*,<lowercase/><srai># # faculty members # english # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # LLB # #,*,*,<lowercase/>There are 5 faculty members in the Department.#Newline        <ul>#Newline            <li>Abul Hasanat Ibn Abedin.</li>#Newline	        <li>Dr. Md. Nayem Alimul Hyder.</li>#Newline	        <li>Jakir Hossan.</li>#Newline	        <li>Md. Fariduzzaman.</li>#Newline	        <li>Golam Faruque Rasel.</li>#Newline        </ul>,udc.aiml
+0,# # FACULTY MEMBER # LLB # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # TEACHERS # LLB # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # TEACHER # LLB # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # LAW # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # FACULTY MEMBER # LAW # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # TEACHERS # LAW # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # TEACHER # LAW # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # FACULTY MEMBERS # LAW # JUSTICE # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # FACULTY MEMBER # LAW # JUSTICE # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # TEACHERS # LAW # JUSTICE # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,^ MAP # # # # NEUB ^,*,*,<lowercase/>Telihaor#Comma Sheikhghat#Comma Sylhet(City Campus).<split/>Click the button below to see the map.<button><text>Go for it</text><url>https://www.google.com/maps/place/North+East+University+Bangladesh/@24.8901004#Comma91.8587668#Comma17z/data=!4m5!3m4!1s0x3751aacd70cd7665:0xc8ae330ad72490dd!8m2!3d24.8900955!4d91.8609555</url></button>,udc.aiml
+0,# # TEACHER # LAW # JUSTICE # #,*,*,<lowercase/><srai># # faculty members # llb # #</srai>,udc.aiml
+0,# # # # CREDITS # BBA #,*,*,<lowercase/>There are 127 credits.,udc.aiml
+0,# # # # CREDIT # BBA #,*,*,<lowercase/>There are 127 credits.,udc.aiml
+0,# # # # CREDITS # BUSINESS # ADMINISTRATION #,*,*,<lowercase/>There are 127 credits.,udc.aiml
+0,# # # # CREDIT # BUSINESS # ADMINISTRATION #,*,*,<lowercase/>There are 127 credits.,udc.aiml
+0,# # # # CREDIT # ENGLISH #,*,*,<lowercase/>There are 120 credits.,udc.aiml
+0,# # # # CREDITS # ENGLISH #,*,*,<lowercase/>There are 120 credits.,udc.aiml
+0,# # # # CREDIT # LLB #,*,*,<lowercase/>There are 140 credits.,udc.aiml
+0,# # # # CREDITS # LLB #,*,*,<lowercase/>There are 140 credits.,udc.aiml
+0,# # # # CREDIT # LAW #,*,*,<lowercase/>There are 140 credits.,udc.aiml
+0,# # # # CREDITS # LAW #,*,*,There are 140 credits.,udc.aiml
+0,# # # # CREDIT # LAW # JUSTICE #,*,*,<lowercase/>There are 140 credits.,udc.aiml
+0,# # # # CREDITS # LAW # JUSTICE #,*,*,<lowercase/>There are 140 credits.,udc.aiml
+0,# # # # CREDIT # CSE #,*,*,<lowercase/>There are 160 credits.,udc.aiml
+0,# # # # CREDITS # CSE #,*,*,<lowercase/>There are 160 credits.,udc.aiml
+0,# # # # CREDIT # COMPUTER SCIENCE # # #,*,*,<lowercase/>There are 160 credits.,udc.aiml
+0,# # # # CREDITS # COMPUTER SCIENCE # # #,*,*,<lowercase/>There are 160 credits.,udc.aiml
+0,# # # # CREDIT # SOCIOLOGY #,*,*,<lowercase/>There are 137 credits.,udc.aiml
+0,# # # # CREDITS # SOCIOLOGY #,*,*,<lowercase/>There are 137 credits.,udc.aiml
+0,# # # # CREDIT # APPLIED SOCIOLOGY # # # #,*,*,<lowercase/>There are 137 credits.,udc.aiml
+0,# # # # CREDITS # APPLIED SOCIOLOGY # # # #,*,*,<lowercase/>There are 137 credits.,udc.aiml
+0,# # # # CREDIT # MATH #,*,*,<lowercase/>There are 150 credits.,udc.aiml
+0,# # # # CREDITS # MATH #,*,*,<lowercase/>There are 150 credits.,udc.aiml
+0,# # # # CREDIT # MATHMATICS #,*,*,<lowercase/>There are 150 credits.,udc.aiml
+0,# # # # CREDITS # MATHMATICS #,*,*,<lowercase/>There are 150 credits.,udc.aiml
+0,# # # # CREDIT # # # # CHEMISTRY # #,*,*,<lowercase/>There are 141 credits.,udc.aiml
+0,# # # # CREDITS # # # # CHEMISTRY # #,*,*,<lowercase/>There are 141 credits.,udc.aiml
+0,# # # # CREDIT # # MBA # # #,*,*,<lowercase/>There are 64 credits for regular.<split/>#Newline    There are 52 credits for exclusive.,udc.aiml
+0,# # # # CREDITS # # MBA # # #,*,*,<lowercase/>There are 64 credits for regular.<split/>#Newline    There are 52 credits for exclusive.,udc.aiml
+0,# # # # CREDIT # # MASTER # BUSINESS # # # # #,*,*,<lowercase/>There are 64 credits for regular.<split/>#Newline    There are 52 credits for exclusive.,udc.aiml
+0,# # # # CREDITS # # MASTER # BUSINESS # # # # #,*,*,<lowercase/>There are 64 credits for regular.<split/>#Newline    There are 52 credits for exclusive.,udc.aiml
+0,# # # # CREDIT # MA # ENGLISH # #,*,*,<lowercase/>There are 36 credits for both final and normal.,udc.aiml
+0,# # # # CREDITS # MA # ENGLISH # #,*,*,<lowercase/>There are 36 credits for both final and normal.,udc.aiml
+0,# # # # CREDIT # MASTER # ARTS # ENGLISH # #,*,*,<lowercase/>There are 36 credits for both final and normal.,udc.aiml
+0,# # # # CREDITS # MASTER # ARTS # ENGLISH # #,*,*,<lowercase/>There are 36 credits for both final and normal.,udc.aiml
+0,# # # # CREDIT # MSC # MATH # #,*,*,<lowercase/>There are 77 credits for preliminiary.<split/>#Newline    There are 40 credits for final.,udc.aiml
+0,# # # # CREDITS # MSC # MATH # #,*,*,<lowercase/>There are 77 credits for preliminiary.<split/>#Newline    There are 40 credits for final.,udc.aiml
+0,# # # # CREDIT # MASTER # SCIENCE # MATH # #,*,*,<lowercase/>There are 77 credits for preliminiary.<split/>#Newline    There are 40 credits for final.,udc.aiml
+0,# # # # CREDITS # MASTER # SCIENCE # MATH # #,*,*,<lowercase/>There are 77 credits for preliminiary.<split/>#Newline    There are 40 credits for final.,udc.aiml
+0,# # # HEAD # CSE # #,*,*,<lowercase/>Al Mehdi Saadat Chowdhury<split/>#Newline        <image>http://www.neub.edu.bd/images/faculty/AlMehdiSaadatChowdhury.jpg</image>#Newline        <split/>Assistant Professor and Head#Newline        <split/>M.Sc. (Thesis) in CSE#Newline        <split/>B.Sc. (Engg.) in CSE#Newline        <split/>#Newline        Shahjalal University of Science and Technology<split/>#Newline        Mobile: 01730440808,udc.aiml
+0,# # # HEAD # COMPUTER SCIENCE # # # #,*,*,<lowercase/><srai># # # head # cse # #</srai>,udc.aiml
+0,# # # HEAD # BBA # #,*,*,<lowercase/>Dr. Tufayel Ahmed<split/>#Newline        <image>http://www.neub.edu.bd/images/faculty/ProfessorDrTofayelAhmed.jpg</image><split/>#Newline        Professor<split/> #Newline        Dean#Comma School of Business<split/> #Newline        Head#Comma Dept. of Business Administration<split/>#Newline        Director#Comma Institutional Quality Assurance Cell<split/>#Newline        Mobile: 01711388598,udc.aiml
+0,# # # HEAD # BUSINESS # ADMINISTRATION # #,*,*,<lowercase/><srai># # # head # bba # #</srai>,udc.aiml
+0,# # # HEAD # LLB # #,*,*,<lowercase/>Abul Hasnat Ibn Abedin#Newline    <image>http://www.neub.edu.bd/images/faculty/AbulHasanatIbnAbedin.jpg</image>#Newline    Associate Professor and Head.<split/>#Newline    LL.B (Hons.) and LL.M#Comma University of Rajshahi<split/>#Newline    Ph.D. Fellow#Comma Islamic University#Comma Kushtia<split/>#Newline    Mobile: 01712990698,udc.aiml
+0,# # # HEAD # LAW # #,*,*,<lowercase/><srai># # # head # llb # #</srai>,udc.aiml
+0,# # # HEAD # LAW AND JUSTICE # #,*,*,<lowercase/><srai># # # head # llb # #</srai>,udc.aiml
+0,# # # HEAD # ENGLISH # #,*,*,<lowercase/>Muhammad Shamsul Kabir. Assistant Professor and Head#Newline    <image>http://www.neub.edu.bd/images/faculty/MuhammadShamsulKabir.jpg</image>#Newline    BA(Hons.) and MA in English#Comma NU<split/>#Newline    Intensive English Study (IES)#CommaUK<split/>#Newline    Mobile: 01819560206,udc.aiml
+0,# # # # # HUMANOID ROBOT # # #,*,*,<lowercase/><srai># # # # # # sojib # # # # # #</srai><split/>#Newline    Note: He and his team created it in SUST.The name of robot is RIBO.,udc.aiml
+0,# # # # # ROBOT # # #,*,*,<lowercase/><srai># # # # # humanoid robot # # #</srai>,udc.aiml
+0,# # # # ADVANTAGE # # # #,*,*,<lowercase/><srai># # # goal # # # # #</srai>,udc.aiml
+0,# # # # MOTIVE # # # #,*,*,<lowercase/><srai># # # goal # # # # #</srai>,udc.aiml
+0,# # # # ADVISOR # CSE # # #,*,*,<lowercase/>Dr Mohammad Shahidur Rahman<split/>#Newline    <image>http://nlp.sust.edu/upload/profile/avatar/avatar-18301.jpg</image><split/>#Newline    Professor#Comma Department of Computer Science and Engineering#Comma Shahjalal University of Science and Technology#Comma Sylhet.<split/>#Newline    Email: rahmanms.bd@gmail.com<split/>#Newline    Phone: 01914930807,udc.aiml
+0,# # # # # # SHAHIDUR # # # # # #,*,*,<lowercase/><srai># # # # Advisor # cse # # #</srai><split/>#Newline      NB: HE is the advisor of CSE of NEUB.,udc.aiml
+0,# # # # # # SHAHID # # # # # #,*,*,<lowercase/><srai># # # # Advisor # cse # # #</srai><split/>#Newline      NB: HE is the advisor of CSE of NEUB.,udc.aiml
+0,# # # # # # SOHID # # # # # #,*,*,<lowercase/><srai># # # # Advisor # cse # # #</srai><split/>#Newline      NB: HE is the advisor of CSE of NEUB.,udc.aiml
+0,# # # # # # SAHID # # # # # #,*,*,<lowercase/><srai># # # # Advisor # cse # # #</srai><split/>#Newline      NB: HE is the advisor of CSE of NEUB.,udc.aiml
+0,# # # # SUCCESSFUL EVENT # NEUB # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # # SUCCESSFUL EVENT # CSE # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # # SUCCESSFUL EVENT # COMPUTER SCIENCE # # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # # BEST EVENT # NEUB # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # # BEST EVENT # CSE # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # # BEST EVENT # COMPUTER SCIENCE # # # # #,*,*,<lowercase/>Techhunt-2017 organized by Dept. of CSE.,udc.aiml
+0,# # # ROBOTICS # # # TEACHER # #  #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE,udc.aiml
+0,# # # # # # ROBOTICS # # # TRAINER # # # #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE.,udc.aiml
+0,# # # # # # ROBOTICS # # # MENTOR # # # #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE,udc.aiml
+0,# # # # # # # ROBOTIC # # # TEACHER # # # #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE,udc.aiml
+0,# # # # # # # ROBOTIC # # # TRAINER # # # #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE,udc.aiml
+0,# # # # # # # ROBOTIC # # # MENTOR # # # #,*,*,<lowercase/>Noushad sojib#Comma Lecterur#Comma Dept. of CSE,udc.aiml
+0,# # # # # BEST # # # ACHIEVEMENT # NORTH EAST # # # # # #,*,*,<lowercase/>Wining the third prize in International Robotics Championship(IRC)-2016.,udc.aiml
+0,# # # # # BEST # # # ACHIEVEMENT # NEUB # # #,*,*,<lowercase/>Wining the third prize in International Robotics Championship(IRC)-2016.,udc.aiml
+0,# # # # # BEST # # # ACHIEVEMENT # CSE # # #,*,*,<lowercase/>Wining the third prize in International Robotics Championship(IRC)-2016.,udc.aiml
+0,# # # # # BEST # # # ACHIEVEMENT # COMPUTER SCIENCE # # # # # #,*,*,<lowercase/>Wining the third prize in International Robotics Championship(IRC)-2016.,udc.aiml
+0,# # # # # # # # PRESIDENT # # CSE # # # # # # # #,*,*,<lowercase/><srai># # # head # cse # #</srai>,udc.aiml
+0,# # # # # # # # PRESIDENT # # NORTH EAST # # # # # # # # # #,*,*,<lowercase/><srai># # # head # cse # #</srai>,udc.aiml
+0,# # # # TAKES # # # # ACM # # # WORKSHOP # # # # #,*,*,<lowercase/>**Mir lutfur Rahman sir and Pranta Sarker sir take ACM workshops occassionally.,udc.aiml
+0,# # # # TAKES # # # # ACM # # # WORKSHOPS # # # # #,*,*,<lowercase/>**Mir lutfur Rahman sir and Pranta Sarker sir take ACM workshops occassionally.,udc.aiml
+0,# # # # # # # # ACM # # # MENTOR # # # # #,*,*,<lowercase/>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.,udc.aiml
+0,# # # # # # # # ACM # # # MENTORS # # # # #,*,*,<lowercase/>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.,udc.aiml
+0,# # # # # # # # ACM # # # COACH # # # # #,*,*,<lowercase/>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.,udc.aiml
+0,# # # # # # # # ACM # # # TRAINER # # # # #,*,*,<lowercase/>Mir lutfur Rahman and Pranto Sarker take ACM workshops occassionally.,udc.aiml
+0,# # # # # WAIVER # TUTION FEES # # # #,*,*,Schedule of waiver of tution fees:<split/>#Newline#NewlineTotal GPA(SSC+HSC)= 10.00---------------------------75%<break/>#Newline#NewlineTotal GPA(SSC+HSC)= 9.50 and avobe------------------60%<break/>#NewlineTotal GPA(SSC+HSC)= 9.00 and avobe------------------50%<break/>#NewlineTotal GPA(SSC+HSC)= 8.50 and avobe------------------40%<break/>#NewlineTotal GPA(SSC+HSC)= 8.00 and avobe------------------30%<break/>#NewlineTotal GPA(SSC+HSC)= 7.00 and avobe------------------20%<break/>#Newline#NewlineFor female students---------------------------------20%<break/>#NewlineFor tribal or physically challenged persons---------15%<break/>#NewlineSecond child of same parent or for couple(any one)--50%<break/>#Newline#Newline[N.B: One student will be eligible to enjoy only one benifit]<split/>#Newline* Special waiver for poor and meritorious students;<split/>#Newline* Group waiver available for graduate student.,udc.aiml
+0,# # # # WAIVER # # # # # #,*,*,<srai># # # # # waiver # tution fees # # # #</srai>,udc.aiml
+0,# # # # WAIVERS # # # # # #,*,*,<srai># # # # # waiver # tution fees # # # #</srai>,udc.aiml
+0,# # # # # WAIVERS # TUTION FEES # # # # # #,*,*,<srai># # # # # waiver # tution fees # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # UNDERGRADUATE # # # #,*,*,<lowercase/>Admission requierments for Undergraduate programs:#Newline#Newline-&gt; Minimum GPA 2.50 both in SSC and HSC or equivalent exams;#Newline-&gt; GPA 2.00may be considered provided total GPA both levels stands at 6.00;#Newline-&gt; In 'O' level at least 5 subjects and 'A' level at least 2 subjects with at least four B grades or GPA 4.00 and three C grade or GPA 3.50.#Newline You can also visit Our official website: www.neub.edu.bd,udc.aiml
+0,# # # # REQUIERMENTS # # HONOURS # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # BACHELOR # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # CSE # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # COMPUTER SCIENCE # # # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # ENGLISH # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # BBA # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # BUSINESS # ADMINISTRATION # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # LLB # # # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # LAW # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # LAW # JUSTICE # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # # # SOCIOLOGY # # # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # BSS # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # MATH # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # MATHMATICS # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # MATHMATIC # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # REQUIERMENTS # # # # # CHEMISTRY # # # #,*,*,<lowercase/><srai># # # # requierments # # undergraduate # # # #</srai>,udc.aiml
+0,# # # # # # TUTION # # # # # CREDIT # # # CSE # # # # #,*,*,<lowercase/>Tution fees per credit for CSE is 1650 taka.,udc.aiml
+0,# # # # # # TUTION # # # # # # CREDIT # BBA # # # # #,*,*,<lowercase/>2)Tution fees per credit for BBA is 2150 taka.,udc.aiml
+0,# # # TUTION FEES PER CREDIT # LLB  # #,*,*,<lowercase/>Tution fees per credit for LL.B is 1500 taka.,udc.aiml
+0,# # # # # # # TUTION # # # # # CREDIT # ENGLISH # # # # #,*,*,<lowercase/>Tution fees per credit for English is 1450 taka.,udc.aiml
+0,# # # # # #TUTION # # # # # CREDIT # # # # # MATHEMATICS # # # #,*,*,<lowercase/>Tution fees per credit for Mathematics and Informatics is 1500 taka.,udc.aiml
+0,# # # # # TUTION # # # # # CREDIT # #  # # SOCIOLOGY # # # # #,*,*,<lowercase/>Tution fees per credit for Applied Sociology and Social Work is 1300 taka.,udc.aiml
+0,# # # # # TUTION # # # # # CREDIT # # # CHEMISTRY # # # #,*,*,<lowercase/>Tution fees per credit for Env.Sc. and Chemistry is 1800 taka.,udc.aiml
+0,# # # # # VC # # # # #,*,*,<lowercase/>Proffessor Dr. Atful Hye Shibly.#Newline    #Newline    <image>http://neub.edu.bd/media/k2/items/cache/d632334130a2b9d194362b7d857b88bf_M.jpg</image>,udc.aiml
+0,# # # # # VICE CHANCELLOR # # # # #,*,*,<lowercase/><srai># # # # # vc # # # # #</srai>,udc.aiml
+0,# # # # # # CHAIRMAN # # # # # # # # #,*,*,<image>http://neub.edu.bd/media/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_XL.jpg</image>Advocate Iqbal Ahmed Chowdhuy.,udc.aiml
+0,# # # # DATE # # #,*,*,<lowercase/>Today is <date format="%B %d#Comma %Y"/>,udc.aiml
+0,# # # # # VICE-CHANCELLOR # # # # #,*,*,<lowercase/><srai># # # # # vc # # # # #</srai>,udc.aiml
+0,^ LAB ^,*,*,<lowercase/>There are total 5 labs in the Versity.<split/>#Newline      1. Two Computer labs<split/>2. One internet lab.<split/>3. One Electrical lab.<split/>4. One Robotic lab.,udc.aiml
+0,^ LABS ^,*,*,<lowercase/><srai>^ lab ^</srai>,udc.aiml
+0,^ ELECTRICAL LAB ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRICAL LABS ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRIC LAB ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRIC LABS ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRICS LAB ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRICS LABS ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRONICS LAB ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRONICS LABS ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRONIC LAB ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ ELECTRONIC LABS ^,*,*,<lowercase/>There are one electric lab.,udc.aiml
+0,^ COMPUTER LAB ^,*,*,<lowercase/>There are two computer labs.,udc.aiml
+0,^ COMPUTER LABS ^,*,*,<lowercase/>There are two computer labs.,udc.aiml
+0,^ COMPUTERS LAB ^,*,*,<lowercase/>There are two computer labs.,udc.aiml
+0,^ COMPUTERS LABS ^,*,*,<lowercase/>There are two computer labs.,udc.aiml
+0,^ INTERNET LAB ^,*,*,<lowercase/>There are one internet lab.,udc.aiml
+0,^ INTERNET LABS ^,*,*,<lowercase/>There are one internet lab.,udc.aiml
+0,^ ROBOT LAB ^,*,*,<lowercase/>There are one robotic lab.,udc.aiml
+0,^ ROBOT LABS ^,*,*,<lowercase/>There are one robotic lab.,udc.aiml
+0,^ ROBOTICS LAB ^,*,*,<lowercase/>There are one robotic lab.,udc.aiml
+0,^ ROBOTICS LABS ^,*,*,<lowercase/>There are one robotics lab.,udc.aiml
+0,^ ROBOTIC LAB ^,*,*,<lowercase/>There are one robotics lab.,udc.aiml
+0,^ ROBOTIC LABS ^,*,*,<lowercase/>There are one robotic lab.,udc.aiml
+0,^ MOBIN AHMED ^,*,*,<lowercase/>The ChatBot developer.<split/>#Newline      <srai>^ creator ^</srai>,udc.aiml
+0,^ MOBIN ^,*,*,<lowercase/>The ChatBot developer.<split/>#Newline      <srai>^ creator ^</srai>,udc.aiml
+0,^ GURU PRASHAD CHANDA DIP ^,*,*,<lowercase/>The ChatBot developer.,udc.aiml
+0,^ MAHFUZUR RAHMAN ^,*,*,<lowercase/>The ChatBot developer.,udc.aiml
+0,^ MONEY # # # # CSE ^,*,*,<lowercase/><srai/>,udc.aiml
+0,^ JUST SAY ^,*,*,<lowercase/><response s="1"/>,udc.aiml
+0,*,*,*,<image>https://drive.google.com/open?id=16mAUQeiOg4GD4XXcaOQC6qqaATvkzabH</image>Sorry! I didn't understand.<split/>Cheack your words. Was it right?<split/> #Newline    Please ask valid questions and maintain the formality for asking questions.<split/>#Newline     Thank you!,udc.aiml

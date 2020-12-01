@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	
+	 <category>
+    <pattern># # # # cost # # # # # # cs # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=322200 taka.   At 20 percent waiver=269400 taka.   At 30 percent waiver=243000 taka.   At 40 percent waiver=216600 taka.   At 50 percent waiver=190200 taka.   At 60 percent waiver=163800 taka.   At 75 percent waiver=124200 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # bba # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=321250 taka.   At 20 percent waiver=266640 taka.   At 30 percent waiver=239335 taka.   At 40 percent waiver=212030 taka.   At 50 percent waiver=184725 taka.   At 60 percent waiver=157420 taka.   At 75 percent waiver=116463 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # llb # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=256200 taka.   At 20 percent waiver=214200 taka.   At 30 percent waiver=193200 taka.   At 40 percent waiver=172200 taka.   At 50 percent waiver=151200 taka.   At 60 percent waiver=130200 taka.   At 75 percent waiver=98700 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # english # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=220200 taka.   At 20 percent waiver=185400 taka.   At 30 percent waiver=168000 taka.   At 40 percent waiver=150600 taka.   At 50 percent waiver=133200 taka.   At 60 percent waiver=115800 taka.   At 75 percent waiver=89700 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # bss # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=226300 taka.   At 20 percent waiver=190680 taka.   At 30 percent waiver=172870 taka.   At 40 percent waiver=155060 taka.   At 50 percent waiver=137250 taka.   At 60 percent waiver=119440 taka.   At 75 percent waiver=92725 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # math # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=277200 taka.   At 20 percent waiver=232200 taka.   At 30 percent waiver=209700 taka.   At 40 percent waiver=187200 taka.   At 50 percent waiver=164200 taka.   At 60 percent waiver=142200 taka.   At 75 percent waiver=108450 taka.</template>
+  </category>
+  
+   <category>
+    <pattern># # # # cost # # # # # # chemistry # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=312000 taka.   At 20 percent waiver=261240 taka.   At 30 percent waiver=235860 taka.   At 40 percent waiver=210480 taka.   At 50 percent waiver=185100 taka.   At 60 percent waiver=159720 taka.   At 75 percent waiver=121650 taka.</template>
+  </category>
+  
+  
+   <category>
+    <pattern># # # # cost # # # # # # chemistry # # #</pattern>
+    <template><lowercase></lowercase>At 0 percent waiver=312000 taka.   At 20 percent waiver=261240 taka.   At 30 percent waiver=235860 taka.   At 40 percent waiver=210480 taka.   At 50 percent waiver=185100 taka.   At 60 percent waiver=159720 taka.   At 75 percent waiver=121650 taka.</template>
+  </category>
+  
+  
+  //teachers number
+  
+  <category>
+      <pattern># # # # # teachers # # # # CSE # # # #</pattern>
+      <template>There are 7 faculty members in the Department.</template>
+  </category>
+  <category>
+      <pattern># # # # # teachers # # # # Computer Science # # # # # #</pattern>
+      <template>There are 7 faculty members in the Department.</template>
+  </category>
+  <category>
+    <pattern># # teachers # # # math # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # # # # math # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # # # # # math # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # math # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # mathematics # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # mathematics # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # mathematics # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # mathematics # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+	 
+	 
+	 <category>
+    <pattern># # teachers # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # # # # chemistry # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  
+  <category>
+    <pattern># # teachers # bss # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # bss # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # bss # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # bss # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty members # # sociology # # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # faculty member # # sociology # # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teachers # # sociology # # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  <category>
+    <pattern># # teacher # # sociology # # # # #</pattern>
+    <template><lowercase></lowercase>There are 3 faculty members in the Department.</template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern># # # # # video # neub # # #</pattern>
+    <template><lowercase></lowercase>Click the button bellow to watch:
+    <button>
+        <text>(Demo Video)</text>
+        <url>https://www.youtube.com/watch?v=bWw8dZuOlRg</url>
+    </button>
+    </template>
+  </category>
+  
+  <category>
+      <pattern>># # # # # video # north east # # # # # #</pattern>
+      <template><lowercase></lowercase><srai>># # # # # video # neub # # #</srai></template>
+  </category>
+  
+</aiml>

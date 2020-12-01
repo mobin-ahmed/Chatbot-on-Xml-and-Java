@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    
+    <category> 
+        <pattern>loop </pattern>
+        <template>
+            <card>
+ <title>Card Menu</title>
+ <subtitle>Describe a card</subtitle>
+ <image>https://url.for.image</image>
+ <button>
+  <text>Learn More</text>
+  <postback>xlearnmoreabout cards</postback>
+ </button>
+</card>
+        </template>  
+    </category> 
+    
+    <category>
+        <pattern>while</pattern>
+        <template><carousel>
+ <card>
+  <title>Robots</title>
+  <subtitle>Made of metal</subtitle>
+  <image>https://url.for.image</image>
+  <button>Tell Me More</button>
+ </card>
+ <card>
+  <title>Humans</title>
+  <subtitle>Made of carbon</subtitle>
+  <image>https://url.for.image</image>
+  <button>Tell Me More</button>
+ </card>
+</carousel></template>
+    </category>
+    
+    <category> 
+      <pattern>FEELING TODAY</pattern>
+      
+      <template>
+         <think><set name = "state"> happy</set></think>
+         <condition name = "state" value = "happy">
+            I am happy!
+         </condition>
+         
+         <condition name = "state" value = "sad">
+            I am sad!
+         </condition>
+      </template>
+      
+   </category>
+   
+   <category>
+    <pattern># # # # # permanent # # campus # # # # #</pattern>
+    <template>
+        <lowercase></lowercase>Our permanent campus is under-construction at Hetimgonj, Golapgonj, Sylhet.
+        <split/>Click these *Map button below to find the direction and *Video button to watch the animated demo clip of our campus. 
+        <button>
+            <text>(Map)</text>
+            <url>https://www.google.com/maps/place/North+East+University+Bangladesh+(Permanent+Campus)/@24.8509661,91.9466696,17z/data=!4m12!1m6!3m5!1s0x3751adbfa769b683:0xddeab7b044515994!2sNorth+East+University+Bangladesh+(Permanent+Campus)!8m2!3d24.85119!4d91.949105!3m4!1s0x3751adbfa769b683:0xddeab7b044515994!8m2!3d24.85119!4d91.949105</url>
+        </button>
+        
+        <button>
+            <text>[Video]</text>
+            <url>https://youtu.be/bWw8dZuOlRg</url>
+        </button>
+    </template>
+  </category>
+    
+    
+</aiml>
